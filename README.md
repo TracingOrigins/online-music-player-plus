@@ -27,7 +27,7 @@ An elegant online music player with synchronized lyrics display and karaoke effe
    - `Ctrl + ←`: Rewind 15 seconds
    - `Ctrl + →`: Fast forward 15 seconds
 
-## Directory Structure
+### Directory Structure
 
 ```
 online-music-player-plus/
@@ -45,7 +45,7 @@ online-music-player-plus/
 └── README.md
 ```
 
-## Environmental requirement
+### Environmental requirement
 
 - Node.js >= 14.0.0
 - npm >= 6.0.0
@@ -139,12 +139,12 @@ online-music-player-plus/
 └── README.md
 ```
 
-## 环境要求
+### 环境要求
 
 - Node.js >= 14.0.0
 - npm >= 6.0.0
 
-## 快速开始
+### 快速开始
 
 1. 克隆仓库
    ```bash
@@ -178,10 +178,10 @@ online-music-player-plus/
    ```
 6. 在浏览器中访问 `http://localhost:3000`
 
-## 许可证
+### 许可证
 
 [GPL-3.0 license](LICENSE)
 
-## 联系
+### 联系
 
 如有问题或建议，欢迎提 Issue 或 PR。
