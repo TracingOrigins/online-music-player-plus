@@ -1,0 +1,6867 @@
+[
+  {
+    "title": "爱在西元前",
+    "artist": "周杰伦",
+    "audio": "周杰伦 - 爱在西元前.mp3",
+    "background": "周杰伦 - 爱在西元前.png",
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "爱在西元前 - 周杰伦",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 0,
+            "endTime": 0.72
+          },
+          {
+            "char": "在",
+            "startTime": 0.72,
+            "endTime": 1.44
+          },
+          {
+            "char": "西",
+            "startTime": 1.44,
+            "endTime": 2.16
+          },
+          {
+            "char": "元",
+            "startTime": 2.16,
+            "endTime": 2.88
+          },
+          {
+            "char": "前",
+            "startTime": 2.88,
+            "endTime": 3.6
+          },
+          {
+            "char": " ",
+            "startTime": 3.6,
+            "endTime": 4.32
+          },
+          {
+            "char": "-",
+            "startTime": 4.32,
+            "endTime": 5.04
+          },
+          {
+            "char": " ",
+            "startTime": 5.04,
+            "endTime": 5.76
+          },
+          {
+            "char": "周",
+            "startTime": 5.76,
+            "endTime": 6.48
+          },
+          {
+            "char": "杰",
+            "startTime": 6.48,
+            "endTime": 7.2
+          },
+          {
+            "char": "伦",
+            "startTime": 7.2,
+            "endTime": 7.92
+          }
+        ]
+      },
+      {
+        "time": 7.92,
+        "text": "词：方文山",
+        "wordTimings": [
+          {
+            "char": "词",
+            "startTime": 7.92,
+            "endTime": 9.51
+          },
+          {
+            "char": "：",
+            "startTime": 9.51,
+            "endTime": 11.1
+          },
+          {
+            "char": "方",
+            "startTime": 11.1,
+            "endTime": 12.69
+          },
+          {
+            "char": "文",
+            "startTime": 12.69,
+            "endTime": 14.28
+          },
+          {
+            "char": "山",
+            "startTime": 14.28,
+            "endTime": 15.86
+          }
+        ]
+      },
+      {
+        "time": 15.86,
+        "text": "曲：周杰伦",
+        "wordTimings": [
+          {
+            "char": "曲",
+            "startTime": 15.86,
+            "endTime": 17.45
+          },
+          {
+            "char": "：",
+            "startTime": 17.45,
+            "endTime": 19.04
+          },
+          {
+            "char": "周",
+            "startTime": 19.04,
+            "endTime": 20.63
+          },
+          {
+            "char": "杰",
+            "startTime": 20.63,
+            "endTime": 22.22
+          },
+          {
+            "char": "伦",
+            "startTime": 22.22,
+            "endTime": 23.8
+          }
+        ]
+      },
+      {
+        "time": 23.8,
+        "text": "编曲：林迈可",
+        "wordTimings": [
+          {
+            "char": "编",
+            "startTime": 23.8,
+            "endTime": 25.13
+          },
+          {
+            "char": "曲",
+            "startTime": 25.13,
+            "endTime": 26.45
+          },
+          {
+            "char": "：",
+            "startTime": 26.45,
+            "endTime": 27.77
+          },
+          {
+            "char": "林",
+            "startTime": 27.77,
+            "endTime": 29.1
+          },
+          {
+            "char": "迈",
+            "startTime": 29.1,
+            "endTime": 30.42
+          },
+          {
+            "char": "可",
+            "startTime": 30.42,
+            "endTime": 31.75
+          }
+        ]
+      },
+      {
+        "time": 31.75,
+        "text": "古巴比伦王颁布了",
+        "wordTimings": [
+          {
+            "char": "古",
+            "startTime": 31.75,
+            "endTime": 31.93
+          },
+          {
+            "char": "巴",
+            "startTime": 31.93,
+            "endTime": 32.08
+          },
+          {
+            "char": "比",
+            "startTime": 32.08,
+            "endTime": 32.27
+          },
+          {
+            "char": "伦",
+            "startTime": 32.27,
+            "endTime": 32.43
+          },
+          {
+            "char": "王",
+            "startTime": 32.43,
+            "endTime": 32.68
+          },
+          {
+            "char": "颁",
+            "startTime": 32.68,
+            "endTime": 32.91
+          },
+          {
+            "char": "布",
+            "startTime": 32.91,
+            "endTime": 33.18
+          },
+          {
+            "char": "了",
+            "startTime": 33.18,
+            "endTime": 33.42
+          }
+        ]
+      },
+      {
+        "time": 33.42,
+        "text": "汉摩拉比法典",
+        "wordTimings": [
+          {
+            "char": "汉",
+            "startTime": 33.42,
+            "endTime": 33.61
+          },
+          {
+            "char": "摩",
+            "startTime": 33.61,
+            "endTime": 33.85
+          },
+          {
+            "char": "拉",
+            "startTime": 33.85,
+            "endTime": 34.08
+          },
+          {
+            "char": "比",
+            "startTime": 34.08,
+            "endTime": 34.33
+          },
+          {
+            "char": "法",
+            "startTime": 34.33,
+            "endTime": 34.54
+          },
+          {
+            "char": "典",
+            "startTime": 34.54,
+            "endTime": 34.98
+          }
+        ]
+      },
+      {
+        "time": 35.17,
+        "text": "刻在黑色的玄武岩",
+        "wordTimings": [
+          {
+            "char": "刻",
+            "startTime": 35.17,
+            "endTime": 35.38
+          },
+          {
+            "char": "在",
+            "startTime": 35.38,
+            "endTime": 35.56
+          },
+          {
+            "char": "黑",
+            "startTime": 35.56,
+            "endTime": 35.76
+          },
+          {
+            "char": "色",
+            "startTime": 35.76,
+            "endTime": 36
+          },
+          {
+            "char": "的",
+            "startTime": 36,
+            "endTime": 36.24
+          },
+          {
+            "char": "玄",
+            "startTime": 36.24,
+            "endTime": 36.48
+          },
+          {
+            "char": "武",
+            "startTime": 36.48,
+            "endTime": 36.76
+          },
+          {
+            "char": "岩",
+            "startTime": 36.76,
+            "endTime": 37
+          }
+        ]
+      },
+      {
+        "time": 37,
+        "text": "距今已经三千七百多年",
+        "wordTimings": [
+          {
+            "char": "距",
+            "startTime": 37,
+            "endTime": 37.18
+          },
+          {
+            "char": "今",
+            "startTime": 37.18,
+            "endTime": 37.34
+          },
+          {
+            "char": "已",
+            "startTime": 37.34,
+            "endTime": 37.48
+          },
+          {
+            "char": "经",
+            "startTime": 37.48,
+            "endTime": 37.62
+          },
+          {
+            "char": "三",
+            "startTime": 37.62,
+            "endTime": 37.78
+          },
+          {
+            "char": "千",
+            "startTime": 37.78,
+            "endTime": 37.94
+          },
+          {
+            "char": "七",
+            "startTime": 37.94,
+            "endTime": 38.09
+          },
+          {
+            "char": "百",
+            "startTime": 38.09,
+            "endTime": 38.27
+          },
+          {
+            "char": "多",
+            "startTime": 38.27,
+            "endTime": 38.79
+          },
+          {
+            "char": "年",
+            "startTime": 38.79,
+            "endTime": 39.25
+          }
+        ]
+      },
+      {
+        "time": 39.42,
+        "text": "你在橱窗前",
+        "wordTimings": [
+          {
+            "char": "你",
+            "startTime": 39.42,
+            "endTime": 39.57
+          },
+          {
+            "char": "在",
+            "startTime": 39.57,
+            "endTime": 39.77
+          },
+          {
+            "char": "橱",
+            "startTime": 39.77,
+            "endTime": 39.99
+          },
+          {
+            "char": "窗",
+            "startTime": 39.99,
+            "endTime": 40.22
+          },
+          {
+            "char": "前",
+            "startTime": 40.22,
+            "endTime": 40.61
+          }
+        ]
+      },
+      {
+        "time": 40.78,
+        "text": "凝视碑文的字眼",
+        "wordTimings": [
+          {
+            "char": "凝",
+            "startTime": 40.78,
+            "endTime": 40.96
+          },
+          {
+            "char": "视",
+            "startTime": 40.96,
+            "endTime": 41.22
+          },
+          {
+            "char": "碑",
+            "startTime": 41.22,
+            "endTime": 41.43
+          },
+          {
+            "char": "文",
+            "startTime": 41.43,
+            "endTime": 41.72
+          },
+          {
+            "char": "的",
+            "startTime": 41.72,
+            "endTime": 41.9
+          },
+          {
+            "char": "字",
+            "startTime": 41.9,
+            "endTime": 42.11
+          },
+          {
+            "char": "眼",
+            "startTime": 42.11,
+            "endTime": 42.7
+          }
+        ]
+      },
+      {
+        "time": 43.03,
+        "text": "我却在旁静静欣赏",
+        "wordTimings": [
+          {
+            "char": "我",
+            "startTime": 43.03,
+            "endTime": 43.2
+          },
+          {
+            "char": "却",
+            "startTime": 43.2,
+            "endTime": 43.32
+          },
+          {
+            "char": "在",
+            "startTime": 43.32,
+            "endTime": 43.49
+          },
+          {
+            "char": "旁",
+            "startTime": 43.49,
+            "endTime": 43.65
+          },
+          {
+            "char": "静",
+            "startTime": 43.65,
+            "endTime": 43.82
+          },
+          {
+            "char": "静",
+            "startTime": 43.82,
+            "endTime": 44.03
+          },
+          {
+            "char": "欣",
+            "startTime": 44.03,
+            "endTime": 44.27
+          },
+          {
+            "char": "赏",
+            "startTime": 44.27,
+            "endTime": 44.52
+          }
+        ]
+      },
+      {
+        "time": 44.52,
+        "text": "你那张我深爱的脸",
+        "wordTimings": [
+          {
+            "char": "你",
+            "startTime": 44.52,
+            "endTime": 44.74
+          },
+          {
+            "char": "那",
+            "startTime": 44.74,
+            "endTime": 45
+          },
+          {
+            "char": "张",
+            "startTime": 45,
+            "endTime": 45.24
+          },
+          {
+            "char": "我",
+            "startTime": 45.24,
+            "endTime": 45.46
+          },
+          {
+            "char": "深",
+            "startTime": 45.46,
+            "endTime": 45.7
+          },
+          {
+            "char": "爱",
+            "startTime": 45.7,
+            "endTime": 45.92
+          },
+          {
+            "char": "的",
+            "startTime": 45.92,
+            "endTime": 46.39
+          },
+          {
+            "char": "脸",
+            "startTime": 46.39,
+            "endTime": 46.92
+          }
+        ]
+      },
+      {
+        "time": 47.21,
+        "text": "祭司神殿征战",
+        "wordTimings": [
+          {
+            "char": "祭",
+            "startTime": 47.21,
+            "endTime": 47.36
+          },
+          {
+            "char": "司",
+            "startTime": 47.36,
+            "endTime": 47.81
+          },
+          {
+            "char": "神",
+            "startTime": 47.81,
+            "endTime": 48.06
+          },
+          {
+            "char": "殿",
+            "startTime": 48.06,
+            "endTime": 48.3
+          },
+          {
+            "char": "征",
+            "startTime": 48.3,
+            "endTime": 48.54
+          },
+          {
+            "char": "战",
+            "startTime": 48.54,
+            "endTime": 48.98
+          }
+        ]
+      },
+      {
+        "time": 49.14,
+        "text": "弓箭是谁的从前",
+        "wordTimings": [
+          {
+            "char": "弓",
+            "startTime": 49.14,
+            "endTime": 49.42
+          },
+          {
+            "char": "箭",
+            "startTime": 49.42,
+            "endTime": 49.67
+          },
+          {
+            "char": "是",
+            "startTime": 49.67,
+            "endTime": 49.82
+          },
+          {
+            "char": "谁",
+            "startTime": 49.82,
+            "endTime": 49.98
+          },
+          {
+            "char": "的",
+            "startTime": 49.98,
+            "endTime": 50.19
+          },
+          {
+            "char": "从",
+            "startTime": 50.19,
+            "endTime": 50.37
+          },
+          {
+            "char": "前",
+            "startTime": 50.37,
+            "endTime": 50.71
+          }
+        ]
+      },
+      {
+        "time": 51,
+        "text": "喜欢在人潮中",
+        "wordTimings": [
+          {
+            "char": "喜",
+            "startTime": 51,
+            "endTime": 51.15
+          },
+          {
+            "char": "欢",
+            "startTime": 51.15,
+            "endTime": 51.3
+          },
+          {
+            "char": "在",
+            "startTime": 51.3,
+            "endTime": 51.43
+          },
+          {
+            "char": "人",
+            "startTime": 51.43,
+            "endTime": 51.57
+          },
+          {
+            "char": "潮",
+            "startTime": 51.57,
+            "endTime": 51.77
+          },
+          {
+            "char": "中",
+            "startTime": 51.77,
+            "endTime": 52.09
+          }
+        ]
+      },
+      {
+        "time": 52.09,
+        "text": "你只属于我的那画面",
+        "wordTimings": [
+          {
+            "char": "你",
+            "startTime": 52.09,
+            "endTime": 52.25
+          },
+          {
+            "char": "只",
+            "startTime": 52.25,
+            "endTime": 52.47
+          },
+          {
+            "char": "属",
+            "startTime": 52.47,
+            "endTime": 52.74
+          },
+          {
+            "char": "于",
+            "startTime": 52.74,
+            "endTime": 53
+          },
+          {
+            "char": "我",
+            "startTime": 53,
+            "endTime": 53.21
+          },
+          {
+            "char": "的",
+            "startTime": 53.21,
+            "endTime": 53.45
+          },
+          {
+            "char": "那",
+            "startTime": 53.45,
+            "endTime": 53.72
+          },
+          {
+            "char": "画",
+            "startTime": 53.72,
+            "endTime": 53.94
+          },
+          {
+            "char": "面",
+            "startTime": 53.94,
+            "endTime": 54.44
+          }
+        ]
+      },
+      {
+        "time": 54.69,
+        "text": "经过苏美女神身边",
+        "wordTimings": [
+          {
+            "char": "经",
+            "startTime": 54.69,
+            "endTime": 54.88
+          },
+          {
+            "char": "过",
+            "startTime": 54.88,
+            "endTime": 55.12
+          },
+          {
+            "char": "苏",
+            "startTime": 55.12,
+            "endTime": 55.37
+          },
+          {
+            "char": "美",
+            "startTime": 55.37,
+            "endTime": 55.6
+          },
+          {
+            "char": "女",
+            "startTime": 55.6,
+            "endTime": 55.85
+          },
+          {
+            "char": "神",
+            "startTime": 55.85,
+            "endTime": 56.07
+          },
+          {
+            "char": "身",
+            "startTime": 56.07,
+            "endTime": 56.32
+          },
+          {
+            "char": "边",
+            "startTime": 56.32,
+            "endTime": 56.69
+          }
+        ]
+      },
+      {
+        "time": 56.72,
+        "text": "我以女神之名许愿",
+        "wordTimings": [
+          {
+            "char": "我",
+            "startTime": 56.72,
+            "endTime": 56.9
+          },
+          {
+            "char": "以",
+            "startTime": 56.9,
+            "endTime": 57.1
+          },
+          {
+            "char": "女",
+            "startTime": 57.1,
+            "endTime": 57.29
+          },
+          {
+            "char": "神",
+            "startTime": 57.29,
+            "endTime": 57.54
+          },
+          {
+            "char": "之",
+            "startTime": 57.54,
+            "endTime": 57.77
+          },
+          {
+            "char": "名",
+            "startTime": 57.77,
+            "endTime": 57.97
+          },
+          {
+            "char": "许",
+            "startTime": 57.97,
+            "endTime": 58.18
+          },
+          {
+            "char": "愿",
+            "startTime": 58.18,
+            "endTime": 58.69
+          }
+        ]
+      },
+      {
+        "time": 58.95,
+        "text": "思念像底格里斯河般的漫延",
+        "wordTimings": [
+          {
+            "char": "思",
+            "startTime": 58.95,
+            "endTime": 59.17
+          },
+          {
+            "char": "念",
+            "startTime": 59.17,
+            "endTime": 59.38
+          },
+          {
+            "char": "像",
+            "startTime": 59.38,
+            "endTime": 59.61
+          },
+          {
+            "char": "底",
+            "startTime": 59.61,
+            "endTime": 59.85
+          },
+          {
+            "char": "格",
+            "startTime": 59.85,
+            "endTime": 60.12
+          },
+          {
+            "char": "里",
+            "startTime": 60.12,
+            "endTime": 60.37
+          },
+          {
+            "char": "斯",
+            "startTime": 60.37,
+            "endTime": 60.58
+          },
+          {
+            "char": "河",
+            "startTime": 60.58,
+            "endTime": 60.89
+          },
+          {
+            "char": "般",
+            "startTime": 60.89,
+            "endTime": 61.11
+          },
+          {
+            "char": "的",
+            "startTime": 61.11,
+            "endTime": 61.52
+          },
+          {
+            "char": "漫",
+            "startTime": 61.52,
+            "endTime": 61.9
+          },
+          {
+            "char": "延",
+            "startTime": 61.9,
+            "endTime": 62.46
+          }
+        ]
+      },
+      {
+        "time": 62.81,
+        "text": "当古文明只剩下难解的语言",
+        "wordTimings": [
+          {
+            "char": "当",
+            "startTime": 62.81,
+            "endTime": 63
+          },
+          {
+            "char": "古",
+            "startTime": 63,
+            "endTime": 63.49
+          },
+          {
+            "char": "文",
+            "startTime": 63.49,
+            "endTime": 63.93
+          },
+          {
+            "char": "明",
+            "startTime": 63.93,
+            "endTime": 64.45
+          },
+          {
+            "char": "只",
+            "startTime": 64.45,
+            "endTime": 64.82
+          },
+          {
+            "char": "剩",
+            "startTime": 64.82,
+            "endTime": 65.27
+          },
+          {
+            "char": "下",
+            "startTime": 65.27,
+            "endTime": 65.72
+          },
+          {
+            "char": "难",
+            "startTime": 65.72,
+            "endTime": 65.92
+          },
+          {
+            "char": "解",
+            "startTime": 65.92,
+            "endTime": 66.33
+          },
+          {
+            "char": "的",
+            "startTime": 66.33,
+            "endTime": 66.69
+          },
+          {
+            "char": "语",
+            "startTime": 66.69,
+            "endTime": 67.2
+          },
+          {
+            "char": "言",
+            "startTime": 67.2,
+            "endTime": 68.61
+          }
+        ]
+      },
+      {
+        "time": 69.2,
+        "text": "传说就成了永垂不朽的诗篇",
+        "wordTimings": [
+          {
+            "char": "传",
+            "startTime": 69.2,
+            "endTime": 69.4
+          },
+          {
+            "char": "说",
+            "startTime": 69.4,
+            "endTime": 69.59
+          },
+          {
+            "char": "就",
+            "startTime": 69.59,
+            "endTime": 70.09
+          },
+          {
+            "char": "成",
+            "startTime": 70.09,
+            "endTime": 70.5
+          },
+          {
+            "char": "了",
+            "startTime": 70.5,
+            "endTime": 70.95
+          },
+          {
+            "char": "永",
+            "startTime": 70.95,
+            "endTime": 71.27
+          },
+          {
+            "char": "垂",
+            "startTime": 71.27,
+            "endTime": 71.96
+          },
+          {
+            "char": "不",
+            "startTime": 71.96,
+            "endTime": 72.17
+          },
+          {
+            "char": "朽",
+            "startTime": 72.17,
+            "endTime": 72.74
+          },
+          {
+            "char": "的",
+            "startTime": 72.74,
+            "endTime": 73.17
+          },
+          {
+            "char": "诗",
+            "startTime": 73.17,
+            "endTime": 74.22
+          },
+          {
+            "char": "篇",
+            "startTime": 74.22,
+            "endTime": 76.12
+          }
+        ]
+      },
+      {
+        "time": 77.96,
+        "text": "我给你的爱写在西元前",
+        "wordTimings": [
+          {
+            "char": "我",
+            "startTime": 77.96,
+            "endTime": 78.15
+          },
+          {
+            "char": "给",
+            "startTime": 78.15,
+            "endTime": 78.34
+          },
+          {
+            "char": "你",
+            "startTime": 78.34,
+            "endTime": 78.54
+          },
+          {
+            "char": "的",
+            "startTime": 78.54,
+            "endTime": 78.77
+          },
+          {
+            "char": "爱",
+            "startTime": 78.77,
+            "endTime": 78.98
+          },
+          {
+            "char": "写",
+            "startTime": 78.98,
+            "endTime": 79.22
+          },
+          {
+            "char": "在",
+            "startTime": 79.22,
+            "endTime": 79.5
+          },
+          {
+            "char": "西",
+            "startTime": 79.5,
+            "endTime": 79.71
+          },
+          {
+            "char": "元",
+            "startTime": 79.71,
+            "endTime": 79.95
+          },
+          {
+            "char": "前",
+            "startTime": 79.95,
+            "endTime": 80.36
+          }
+        ]
+      },
+      {
+        "time": 80.51,
+        "text": "深埋在美索不达米亚平原",
+        "wordTimings": [
+          {
+            "char": "深",
+            "startTime": 80.51,
+            "endTime": 80.69
+          },
+          {
+            "char": "埋",
+            "startTime": 80.69,
+            "endTime": 80.95
+          },
+          {
+            "char": "在",
+            "startTime": 80.95,
+            "endTime": 81.19
+          },
+          {
+            "char": "美",
+            "startTime": 81.19,
+            "endTime": 81.43
+          },
+          {
+            "char": "索",
+            "startTime": 81.43,
+            "endTime": 81.65
+          },
+          {
+            "char": "不",
+            "startTime": 81.65,
+            "endTime": 81.87
+          },
+          {
+            "char": "达",
+            "startTime": 81.87,
+            "endTime": 82.1
+          },
+          {
+            "char": "米",
+            "startTime": 82.1,
+            "endTime": 82.34
+          },
+          {
+            "char": "亚",
+            "startTime": 82.34,
+            "endTime": 82.6
+          },
+          {
+            "char": "平",
+            "startTime": 82.6,
+            "endTime": 82.81
+          },
+          {
+            "char": "原",
+            "startTime": 82.81,
+            "endTime": 84.03
+          }
+        ]
+      },
+      {
+        "time": 85.54,
+        "text": "几十个世纪后出土发现",
+        "wordTimings": [
+          {
+            "char": "几",
+            "startTime": 85.54,
+            "endTime": 85.71
+          },
+          {
+            "char": "十",
+            "startTime": 85.71,
+            "endTime": 85.94
+          },
+          {
+            "char": "个",
+            "startTime": 85.94,
+            "endTime": 86.15
+          },
+          {
+            "char": "世",
+            "startTime": 86.15,
+            "endTime": 86.4
+          },
+          {
+            "char": "纪",
+            "startTime": 86.4,
+            "endTime": 86.7
+          },
+          {
+            "char": "后",
+            "startTime": 86.7,
+            "endTime": 86.89
+          },
+          {
+            "char": "出",
+            "startTime": 86.89,
+            "endTime": 87.1
+          },
+          {
+            "char": "土",
+            "startTime": 87.1,
+            "endTime": 87.35
+          },
+          {
+            "char": "发",
+            "startTime": 87.35,
+            "endTime": 87.56
+          },
+          {
+            "char": "现",
+            "startTime": 87.56,
+            "endTime": 87.88
+          }
+        ]
+      },
+      {
+        "time": 88.05,
+        "text": "泥板上的字迹依然清晰可见",
+        "wordTimings": [
+          {
+            "char": "泥",
+            "startTime": 88.05,
+            "endTime": 88.27
+          },
+          {
+            "char": "板",
+            "startTime": 88.27,
+            "endTime": 88.51
+          },
+          {
+            "char": "上",
+            "startTime": 88.51,
+            "endTime": 88.72
+          },
+          {
+            "char": "的",
+            "startTime": 88.72,
+            "endTime": 89
+          },
+          {
+            "char": "字",
+            "startTime": 89,
+            "endTime": 89.21
+          },
+          {
+            "char": "迹",
+            "startTime": 89.21,
+            "endTime": 89.43
+          },
+          {
+            "char": "依",
+            "startTime": 89.43,
+            "endTime": 89.67
+          },
+          {
+            "char": "然",
+            "startTime": 89.67,
+            "endTime": 89.9
+          },
+          {
+            "char": "清",
+            "startTime": 89.9,
+            "endTime": 90.13
+          },
+          {
+            "char": "晰",
+            "startTime": 90.13,
+            "endTime": 90.37
+          },
+          {
+            "char": "可",
+            "startTime": 90.37,
+            "endTime": 90.82
+          },
+          {
+            "char": "见",
+            "startTime": 90.82,
+            "endTime": 91.19
+          }
+        ]
+      },
+      {
+        "time": 93.13,
+        "text": "我给你的爱写在西元前",
+        "wordTimings": [
+          {
+            "char": "我",
+            "startTime": 93.13,
+            "endTime": 93.3
+          },
+          {
+            "char": "给",
+            "startTime": 93.3,
+            "endTime": 93.57
+          },
+          {
+            "char": "你",
+            "startTime": 93.57,
+            "endTime": 93.77
+          },
+          {
+            "char": "的",
+            "startTime": 93.77,
+            "endTime": 93.96
+          },
+          {
+            "char": "爱",
+            "startTime": 93.96,
+            "endTime": 94.24
+          },
+          {
+            "char": "写",
+            "startTime": 94.24,
+            "endTime": 94.46
+          },
+          {
+            "char": "在",
+            "startTime": 94.46,
+            "endTime": 94.71
+          },
+          {
+            "char": "西",
+            "startTime": 94.71,
+            "endTime": 94.93
+          },
+          {
+            "char": "元",
+            "startTime": 94.93,
+            "endTime": 95.15
+          },
+          {
+            "char": "前",
+            "startTime": 95.15,
+            "endTime": 95.49
+          }
+        ]
+      },
+      {
+        "time": 95.65,
+        "text": "深埋在美索不达米亚平原",
+        "wordTimings": [
+          {
+            "char": "深",
+            "startTime": 95.65,
+            "endTime": 95.81
+          },
+          {
+            "char": "埋",
+            "startTime": 95.81,
+            "endTime": 96.02
+          },
+          {
+            "char": "在",
+            "startTime": 96.02,
+            "endTime": 96.29
+          },
+          {
+            "char": "美",
+            "startTime": 96.29,
+            "endTime": 96.54
+          },
+          {
+            "char": "索",
+            "startTime": 96.54,
+            "endTime": 96.76
+          },
+          {
+            "char": "不",
+            "startTime": 96.76,
+            "endTime": 97.04
+          },
+          {
+            "char": "达",
+            "startTime": 97.04,
+            "endTime": 97.25
+          },
+          {
+            "char": "米",
+            "startTime": 97.25,
+            "endTime": 97.51
+          },
+          {
+            "char": "亚",
+            "startTime": 97.51,
+            "endTime": 97.75
+          },
+          {
+            "char": "平",
+            "startTime": 97.75,
+            "endTime": 97.97
+          },
+          {
+            "char": "原",
+            "startTime": 97.97,
+            "endTime": 98.93
+          }
+        ]
+      },
+      {
+        "time": 100.69,
+        "text": "用楔形文字刻下了永远",
+        "wordTimings": [
+          {
+            "char": "用",
+            "startTime": 100.69,
+            "endTime": 100.86
+          },
+          {
+            "char": "楔",
+            "startTime": 100.86,
+            "endTime": 101.05
+          },
+          {
+            "char": "形",
+            "startTime": 101.05,
+            "endTime": 101.28
+          },
+          {
+            "char": "文",
+            "startTime": 101.28,
+            "endTime": 101.48
+          },
+          {
+            "char": "字",
+            "startTime": 101.48,
+            "endTime": 101.71
+          },
+          {
+            "char": "刻",
+            "startTime": 101.71,
+            "endTime": 101.96
+          },
+          {
+            "char": "下",
+            "startTime": 101.96,
+            "endTime": 102.21
+          },
+          {
+            "char": "了",
+            "startTime": 102.21,
+            "endTime": 102.45
+          },
+          {
+            "char": "永",
+            "startTime": 102.45,
+            "endTime": 102.68
+          },
+          {
+            "char": "远",
+            "startTime": 102.68,
+            "endTime": 103.12
+          }
+        ]
+      },
+      {
+        "time": 103.34,
+        "text": "那已风化千年的誓言",
+        "wordTimings": [
+          {
+            "char": "那",
+            "startTime": 103.34,
+            "endTime": 103.49
+          },
+          {
+            "char": "已",
+            "startTime": 103.49,
+            "endTime": 103.67
+          },
+          {
+            "char": "风",
+            "startTime": 103.67,
+            "endTime": 104.18
+          },
+          {
+            "char": "化",
+            "startTime": 104.18,
+            "endTime": 104.65
+          },
+          {
+            "char": "千",
+            "startTime": 104.65,
+            "endTime": 105.03
+          },
+          {
+            "char": "年",
+            "startTime": 105.03,
+            "endTime": 105.28
+          },
+          {
+            "char": "的",
+            "startTime": 105.28,
+            "endTime": 105.5
+          },
+          {
+            "char": "誓",
+            "startTime": 105.5,
+            "endTime": 106
+          },
+          {
+            "char": "言",
+            "startTime": 106,
+            "endTime": 106.5
+          }
+        ]
+      },
+      {
+        "time": 106.76,
+        "text": "一切又重演",
+        "wordTimings": [
+          {
+            "char": "一",
+            "startTime": 106.76,
+            "endTime": 107.06
+          },
+          {
+            "char": "切",
+            "startTime": 107.06,
+            "endTime": 107.45
+          },
+          {
+            "char": "又",
+            "startTime": 107.45,
+            "endTime": 107.8
+          },
+          {
+            "char": "重",
+            "startTime": 107.8,
+            "endTime": 107.96
+          },
+          {
+            "char": "演",
+            "startTime": 107.96,
+            "endTime": 108.59
+          }
+        ]
+      },
+      {
+        "time": 111.14,
+        "text": "祭司神殿征战",
+        "wordTimings": [
+          {
+            "char": "祭",
+            "startTime": 111.14,
+            "endTime": 111.29
+          },
+          {
+            "char": "司",
+            "startTime": 111.29,
+            "endTime": 111.51
+          },
+          {
+            "char": "神",
+            "startTime": 111.51,
+            "endTime": 111.75
+          },
+          {
+            "char": "殿",
+            "startTime": 111.75,
+            "endTime": 112.22
+          },
+          {
+            "char": "征",
+            "startTime": 112.22,
+            "endTime": 112.42
+          },
+          {
+            "char": "战",
+            "startTime": 112.42,
+            "endTime": 112.74
+          }
+        ]
+      },
+      {
+        "time": 112.86,
+        "text": "弓箭是谁的从前",
+        "wordTimings": [
+          {
+            "char": "弓",
+            "startTime": 112.86,
+            "endTime": 113.04
+          },
+          {
+            "char": "箭",
+            "startTime": 113.04,
+            "endTime": 113.41
+          },
+          {
+            "char": "是",
+            "startTime": 113.41,
+            "endTime": 113.57
+          },
+          {
+            "char": "谁",
+            "startTime": 113.57,
+            "endTime": 113.78
+          },
+          {
+            "char": "的",
+            "startTime": 113.78,
+            "endTime": 114.01
+          },
+          {
+            "char": "从",
+            "startTime": 114.01,
+            "endTime": 114.52
+          },
+          {
+            "char": "前",
+            "startTime": 114.52,
+            "endTime": 115.06
+          }
+        ]
+      },
+      {
+        "time": 115.33,
+        "text": "喜欢在人潮中",
+        "wordTimings": [
+          {
+            "char": "喜",
+            "startTime": 115.33,
+            "endTime": 115.51
+          },
+          {
+            "char": "欢",
+            "startTime": 115.51,
+            "endTime": 115.68
+          },
+          {
+            "char": "在",
+            "startTime": 115.68,
+            "endTime": 115.82
+          },
+          {
+            "char": "人",
+            "startTime": 115.82,
+            "endTime": 116
+          },
+          {
+            "char": "潮",
+            "startTime": 116,
+            "endTime": 116.2
+          },
+          {
+            "char": "中",
+            "startTime": 116.2,
+            "endTime": 116.42
+          }
+        ]
+      },
+      {
+        "time": 116.42,
+        "text": "你只属于我的那画面",
+        "wordTimings": [
+          {
+            "char": "你",
+            "startTime": 116.42,
+            "endTime": 116.64
+          },
+          {
+            "char": "只",
+            "startTime": 116.64,
+            "endTime": 116.89
+          },
+          {
+            "char": "属",
+            "startTime": 116.89,
+            "endTime": 117.15
+          },
+          {
+            "char": "于",
+            "startTime": 117.15,
+            "endTime": 117.38
+          },
+          {
+            "char": "我",
+            "startTime": 117.38,
+            "endTime": 117.61
+          },
+          {
+            "char": "的",
+            "startTime": 117.61,
+            "endTime": 117.84
+          },
+          {
+            "char": "那",
+            "startTime": 117.84,
+            "endTime": 118.09
+          },
+          {
+            "char": "画",
+            "startTime": 118.09,
+            "endTime": 118.33
+          },
+          {
+            "char": "面",
+            "startTime": 118.33,
+            "endTime": 118.74
+          }
+        ]
+      },
+      {
+        "time": 119.07,
+        "text": "经过苏美女神身边",
+        "wordTimings": [
+          {
+            "char": "经",
+            "startTime": 119.07,
+            "endTime": 119.24
+          },
+          {
+            "char": "过",
+            "startTime": 119.24,
+            "endTime": 119.5
+          },
+          {
+            "char": "苏",
+            "startTime": 119.5,
+            "endTime": 119.77
+          },
+          {
+            "char": "美",
+            "startTime": 119.77,
+            "endTime": 119.98
+          },
+          {
+            "char": "女",
+            "startTime": 119.98,
+            "endTime": 120.22
+          },
+          {
+            "char": "神",
+            "startTime": 120.22,
+            "endTime": 120.47
+          },
+          {
+            "char": "身",
+            "startTime": 120.47,
+            "endTime": 120.71
+          },
+          {
+            "char": "边",
+            "startTime": 120.71,
+            "endTime": 120.98
+          }
+        ]
+      },
+      {
+        "time": 120.98,
+        "text": "我以女神之名许愿",
+        "wordTimings": [
+          {
+            "char": "我",
+            "startTime": 120.98,
+            "endTime": 121.17
+          },
+          {
+            "char": "以",
+            "startTime": 121.17,
+            "endTime": 121.42
+          },
+          {
+            "char": "女",
+            "startTime": 121.42,
+            "endTime": 121.65
+          },
+          {
+            "char": "神",
+            "startTime": 121.65,
+            "endTime": 121.88
+          },
+          {
+            "char": "之",
+            "startTime": 121.88,
+            "endTime": 122.12
+          },
+          {
+            "char": "名",
+            "startTime": 122.12,
+            "endTime": 122.34
+          },
+          {
+            "char": "许",
+            "startTime": 122.34,
+            "endTime": 122.58
+          },
+          {
+            "char": "愿",
+            "startTime": 122.58,
+            "endTime": 123.07
+          }
+        ]
+      },
+      {
+        "time": 123.36,
+        "text": "思念像底格里斯河般的漫延",
+        "wordTimings": [
+          {
+            "char": "思",
+            "startTime": 123.36,
+            "endTime": 123.55
+          },
+          {
+            "char": "念",
+            "startTime": 123.55,
+            "endTime": 123.79
+          },
+          {
+            "char": "像",
+            "startTime": 123.79,
+            "endTime": 124
+          },
+          {
+            "char": "底",
+            "startTime": 124,
+            "endTime": 124.23
+          },
+          {
+            "char": "格",
+            "startTime": 124.23,
+            "endTime": 124.48
+          },
+          {
+            "char": "里",
+            "startTime": 124.48,
+            "endTime": 124.71
+          },
+          {
+            "char": "斯",
+            "startTime": 124.71,
+            "endTime": 124.95
+          },
+          {
+            "char": "河",
+            "startTime": 124.95,
+            "endTime": 125.17
+          },
+          {
+            "char": "般",
+            "startTime": 125.17,
+            "endTime": 125.42
+          },
+          {
+            "char": "的",
+            "startTime": 125.42,
+            "endTime": 125.9
+          },
+          {
+            "char": "漫",
+            "startTime": 125.9,
+            "endTime": 126.14
+          },
+          {
+            "char": "延",
+            "startTime": 126.14,
+            "endTime": 126.67
+          }
+        ]
+      },
+      {
+        "time": 127.17,
+        "text": "当古文明只剩下难解的语言",
+        "wordTimings": [
+          {
+            "char": "当",
+            "startTime": 127.17,
+            "endTime": 127.42
+          },
+          {
+            "char": "古",
+            "startTime": 127.42,
+            "endTime": 127.9
+          },
+          {
+            "char": "文",
+            "startTime": 127.9,
+            "endTime": 128.26
+          },
+          {
+            "char": "明",
+            "startTime": 128.26,
+            "endTime": 128.73
+          },
+          {
+            "char": "只",
+            "startTime": 128.73,
+            "endTime": 128.92
+          },
+          {
+            "char": "剩",
+            "startTime": 128.92,
+            "endTime": 129.61
+          },
+          {
+            "char": "下",
+            "startTime": 129.61,
+            "endTime": 129.93
+          },
+          {
+            "char": "难",
+            "startTime": 129.93,
+            "endTime": 130.13
+          },
+          {
+            "char": "解",
+            "startTime": 130.13,
+            "endTime": 130.77
+          },
+          {
+            "char": "的",
+            "startTime": 130.77,
+            "endTime": 130.93
+          },
+          {
+            "char": "语",
+            "startTime": 130.93,
+            "endTime": 131.72
+          },
+          {
+            "char": "言",
+            "startTime": 131.72,
+            "endTime": 132.44
+          }
+        ]
+      },
+      {
+        "time": 133.48,
+        "text": "传说就成了永垂不朽的诗篇",
+        "wordTimings": [
+          {
+            "char": "传",
+            "startTime": 133.48,
+            "endTime": 133.68
+          },
+          {
+            "char": "说",
+            "startTime": 133.68,
+            "endTime": 133.9
+          },
+          {
+            "char": "就",
+            "startTime": 133.9,
+            "endTime": 134.44
+          },
+          {
+            "char": "成",
+            "startTime": 134.44,
+            "endTime": 134.67
+          },
+          {
+            "char": "了",
+            "startTime": 134.67,
+            "endTime": 135.35
+          },
+          {
+            "char": "永",
+            "startTime": 135.35,
+            "endTime": 135.54
+          },
+          {
+            "char": "垂",
+            "startTime": 135.54,
+            "endTime": 136.32
+          },
+          {
+            "char": "不",
+            "startTime": 136.32,
+            "endTime": 136.53
+          },
+          {
+            "char": "朽",
+            "startTime": 136.53,
+            "endTime": 137.09
+          },
+          {
+            "char": "的",
+            "startTime": 137.09,
+            "endTime": 137.47
+          },
+          {
+            "char": "诗",
+            "startTime": 137.47,
+            "endTime": 138.18
+          },
+          {
+            "char": "篇",
+            "startTime": 138.18,
+            "endTime": 141.22
+          }
+        ]
+      },
+      {
+        "time": 142.33,
+        "text": "我给你的爱写在西元前",
+        "wordTimings": [
+          {
+            "char": "我",
+            "startTime": 142.33,
+            "endTime": 142.53
+          },
+          {
+            "char": "给",
+            "startTime": 142.53,
+            "endTime": 142.73
+          },
+          {
+            "char": "你",
+            "startTime": 142.73,
+            "endTime": 142.94
+          },
+          {
+            "char": "的",
+            "startTime": 142.94,
+            "endTime": 143.14
+          },
+          {
+            "char": "爱",
+            "startTime": 143.14,
+            "endTime": 143.36
+          },
+          {
+            "char": "写",
+            "startTime": 143.36,
+            "endTime": 143.6
+          },
+          {
+            "char": "在",
+            "startTime": 143.6,
+            "endTime": 143.84
+          },
+          {
+            "char": "西",
+            "startTime": 143.84,
+            "endTime": 144.1
+          },
+          {
+            "char": "元",
+            "startTime": 144.1,
+            "endTime": 144.33
+          },
+          {
+            "char": "前",
+            "startTime": 144.33,
+            "endTime": 144.69
+          }
+        ]
+      },
+      {
+        "time": 144.88,
+        "text": "深埋在美索不达米亚平原",
+        "wordTimings": [
+          {
+            "char": "深",
+            "startTime": 144.88,
+            "endTime": 145.07
+          },
+          {
+            "char": "埋",
+            "startTime": 145.07,
+            "endTime": 145.28
+          },
+          {
+            "char": "在",
+            "startTime": 145.28,
+            "endTime": 145.49
+          },
+          {
+            "char": "美",
+            "startTime": 145.49,
+            "endTime": 145.77
+          },
+          {
+            "char": "索",
+            "startTime": 145.77,
+            "endTime": 145.99
+          },
+          {
+            "char": "不",
+            "startTime": 145.99,
+            "endTime": 146.28
+          },
+          {
+            "char": "达",
+            "startTime": 146.28,
+            "endTime": 146.52
+          },
+          {
+            "char": "米",
+            "startTime": 146.52,
+            "endTime": 146.75
+          },
+          {
+            "char": "亚",
+            "startTime": 146.75,
+            "endTime": 146.98
+          },
+          {
+            "char": "平",
+            "startTime": 146.98,
+            "endTime": 147.18
+          },
+          {
+            "char": "原",
+            "startTime": 147.18,
+            "endTime": 149.03
+          }
+        ]
+      },
+      {
+        "time": 149.9,
+        "text": "几十个世纪后出土发现",
+        "wordTimings": [
+          {
+            "char": "几",
+            "startTime": 149.9,
+            "endTime": 150.08
+          },
+          {
+            "char": "十",
+            "startTime": 150.08,
+            "endTime": 150.3
+          },
+          {
+            "char": "个",
+            "startTime": 150.3,
+            "endTime": 150.51
+          },
+          {
+            "char": "世",
+            "startTime": 150.51,
+            "endTime": 150.74
+          },
+          {
+            "char": "纪",
+            "startTime": 150.74,
+            "endTime": 150.99
+          },
+          {
+            "char": "后",
+            "startTime": 150.99,
+            "endTime": 151.2
+          },
+          {
+            "char": "出",
+            "startTime": 151.2,
+            "endTime": 151.44
+          },
+          {
+            "char": "土",
+            "startTime": 151.44,
+            "endTime": 151.68
+          },
+          {
+            "char": "发",
+            "startTime": 151.68,
+            "endTime": 151.9
+          },
+          {
+            "char": "现",
+            "startTime": 151.9,
+            "endTime": 152.2
+          }
+        ]
+      },
+      {
+        "time": 152.38,
+        "text": "泥板上的字迹依然清晰可见",
+        "wordTimings": [
+          {
+            "char": "泥",
+            "startTime": 152.38,
+            "endTime": 152.64
+          },
+          {
+            "char": "板",
+            "startTime": 152.64,
+            "endTime": 152.88
+          },
+          {
+            "char": "上",
+            "startTime": 152.88,
+            "endTime": 153.09
+          },
+          {
+            "char": "的",
+            "startTime": 153.09,
+            "endTime": 153.35
+          },
+          {
+            "char": "字",
+            "startTime": 153.35,
+            "endTime": 153.59
+          },
+          {
+            "char": "迹",
+            "startTime": 153.59,
+            "endTime": 153.84
+          },
+          {
+            "char": "依",
+            "startTime": 153.84,
+            "endTime": 154.07
+          },
+          {
+            "char": "然",
+            "startTime": 154.07,
+            "endTime": 154.3
+          },
+          {
+            "char": "清",
+            "startTime": 154.3,
+            "endTime": 154.5
+          },
+          {
+            "char": "晰",
+            "startTime": 154.5,
+            "endTime": 154.74
+          },
+          {
+            "char": "可",
+            "startTime": 154.74,
+            "endTime": 155.16
+          },
+          {
+            "char": "见",
+            "startTime": 155.16,
+            "endTime": 155.83
+          }
+        ]
+      },
+      {
+        "time": 157.48,
+        "text": "我给你的爱写在西元前",
+        "wordTimings": [
+          {
+            "char": "我",
+            "startTime": 157.48,
+            "endTime": 157.66
+          },
+          {
+            "char": "给",
+            "startTime": 157.66,
+            "endTime": 157.86
+          },
+          {
+            "char": "你",
+            "startTime": 157.86,
+            "endTime": 158.11
+          },
+          {
+            "char": "的",
+            "startTime": 158.11,
+            "endTime": 158.32
+          },
+          {
+            "char": "爱",
+            "startTime": 158.32,
+            "endTime": 158.57
+          },
+          {
+            "char": "写",
+            "startTime": 158.57,
+            "endTime": 158.77
+          },
+          {
+            "char": "在",
+            "startTime": 158.77,
+            "endTime": 159.02
+          },
+          {
+            "char": "西",
+            "startTime": 159.02,
+            "endTime": 159.24
+          },
+          {
+            "char": "元",
+            "startTime": 159.24,
+            "endTime": 159.46
+          },
+          {
+            "char": "前",
+            "startTime": 159.46,
+            "endTime": 159.9
+          }
+        ]
+      },
+      {
+        "time": 160.02,
+        "text": "深埋在美索不达米亚平原",
+        "wordTimings": [
+          {
+            "char": "深",
+            "startTime": 160.02,
+            "endTime": 160.22
+          },
+          {
+            "char": "埋",
+            "startTime": 160.22,
+            "endTime": 160.46
+          },
+          {
+            "char": "在",
+            "startTime": 160.46,
+            "endTime": 160.69
+          },
+          {
+            "char": "美",
+            "startTime": 160.69,
+            "endTime": 160.93
+          },
+          {
+            "char": "索",
+            "startTime": 160.93,
+            "endTime": 161.16
+          },
+          {
+            "char": "不",
+            "startTime": 161.16,
+            "endTime": 161.4
+          },
+          {
+            "char": "达",
+            "startTime": 161.4,
+            "endTime": 161.63
+          },
+          {
+            "char": "米",
+            "startTime": 161.63,
+            "endTime": 161.88
+          },
+          {
+            "char": "亚",
+            "startTime": 161.88,
+            "endTime": 162.11
+          },
+          {
+            "char": "平",
+            "startTime": 162.11,
+            "endTime": 162.44
+          },
+          {
+            "char": "原",
+            "startTime": 162.44,
+            "endTime": 163.75
+          }
+        ]
+      },
+      {
+        "time": 165.06,
+        "text": "用楔形文字刻下了永远",
+        "wordTimings": [
+          {
+            "char": "用",
+            "startTime": 165.06,
+            "endTime": 165.24
+          },
+          {
+            "char": "楔",
+            "startTime": 165.24,
+            "endTime": 165.44
+          },
+          {
+            "char": "形",
+            "startTime": 165.44,
+            "endTime": 165.67
+          },
+          {
+            "char": "文",
+            "startTime": 165.67,
+            "endTime": 165.91
+          },
+          {
+            "char": "字",
+            "startTime": 165.91,
+            "endTime": 166.15
+          },
+          {
+            "char": "刻",
+            "startTime": 166.15,
+            "endTime": 166.37
+          },
+          {
+            "char": "下",
+            "startTime": 166.37,
+            "endTime": 166.62
+          },
+          {
+            "char": "了",
+            "startTime": 166.62,
+            "endTime": 166.83
+          },
+          {
+            "char": "永",
+            "startTime": 166.83,
+            "endTime": 167.06
+          },
+          {
+            "char": "远",
+            "startTime": 167.06,
+            "endTime": 167.43
+          }
+        ]
+      },
+      {
+        "time": 167.59,
+        "text": "那已风化千年的誓言",
+        "wordTimings": [
+          {
+            "char": "那",
+            "startTime": 167.59,
+            "endTime": 167.77
+          },
+          {
+            "char": "已",
+            "startTime": 167.77,
+            "endTime": 168.03
+          },
+          {
+            "char": "风",
+            "startTime": 168.03,
+            "endTime": 168.48
+          },
+          {
+            "char": "化",
+            "startTime": 168.48,
+            "endTime": 168.99
+          },
+          {
+            "char": "千",
+            "startTime": 168.99,
+            "endTime": 169.41
+          },
+          {
+            "char": "年",
+            "startTime": 169.41,
+            "endTime": 169.63
+          },
+          {
+            "char": "的",
+            "startTime": 169.63,
+            "endTime": 169.82
+          },
+          {
+            "char": "誓",
+            "startTime": 169.82,
+            "endTime": 170.3
+          },
+          {
+            "char": "言",
+            "startTime": 170.3,
+            "endTime": 170.96
+          }
+        ]
+      },
+      {
+        "time": 171.06,
+        "text": "一切又重演",
+        "wordTimings": [
+          {
+            "char": "一",
+            "startTime": 171.06,
+            "endTime": 171.29
+          },
+          {
+            "char": "切",
+            "startTime": 171.29,
+            "endTime": 171.5
+          },
+          {
+            "char": "又",
+            "startTime": 171.5,
+            "endTime": 171.75
+          },
+          {
+            "char": "重",
+            "startTime": 171.75,
+            "endTime": 171.96
+          },
+          {
+            "char": "演",
+            "startTime": 171.96,
+            "endTime": 172.1
+          }
+        ]
+      },
+      {
+        "time": 172.1,
+        "text": "我感到很疲倦离家乡还是很远",
+        "wordTimings": [
+          {
+            "char": "我",
+            "startTime": 172.1,
+            "endTime": 172.71
+          },
+          {
+            "char": "感",
+            "startTime": 172.71,
+            "endTime": 173.24
+          },
+          {
+            "char": "到",
+            "startTime": 173.24,
+            "endTime": 173.68
+          },
+          {
+            "char": "很",
+            "startTime": 173.68,
+            "endTime": 174.21
+          },
+          {
+            "char": "疲",
+            "startTime": 174.21,
+            "endTime": 174.41
+          },
+          {
+            "char": "倦",
+            "startTime": 174.41,
+            "endTime": 175.18
+          },
+          {
+            "char": "离",
+            "startTime": 175.18,
+            "endTime": 175.36
+          },
+          {
+            "char": "家",
+            "startTime": 175.36,
+            "endTime": 175.55
+          },
+          {
+            "char": "乡",
+            "startTime": 175.55,
+            "endTime": 176.06
+          },
+          {
+            "char": "还",
+            "startTime": 176.06,
+            "endTime": 176.32
+          },
+          {
+            "char": "是",
+            "startTime": 176.32,
+            "endTime": 176.89
+          },
+          {
+            "char": "很",
+            "startTime": 176.89,
+            "endTime": 177.22
+          },
+          {
+            "char": "远",
+            "startTime": 177.22,
+            "endTime": 177.79
+          }
+        ]
+      },
+      {
+        "time": 178.84,
+        "text": "害怕再也不能回到你身边",
+        "wordTimings": [
+          {
+            "char": "害",
+            "startTime": 178.84,
+            "endTime": 179.06
+          },
+          {
+            "char": "怕",
+            "startTime": 179.06,
+            "endTime": 179.38
+          },
+          {
+            "char": "再",
+            "startTime": 179.38,
+            "endTime": 179.88
+          },
+          {
+            "char": "也",
+            "startTime": 179.88,
+            "endTime": 180.13
+          },
+          {
+            "char": "不",
+            "startTime": 180.13,
+            "endTime": 180.62
+          },
+          {
+            "char": "能",
+            "startTime": 180.62,
+            "endTime": 180.97
+          },
+          {
+            "char": "回",
+            "startTime": 180.97,
+            "endTime": 181.77
+          },
+          {
+            "char": "到",
+            "startTime": 181.77,
+            "endTime": 181.99
+          },
+          {
+            "char": "你",
+            "startTime": 181.99,
+            "endTime": 182.49
+          },
+          {
+            "char": "身",
+            "startTime": 182.49,
+            "endTime": 182.94
+          },
+          {
+            "char": "边",
+            "startTime": 182.94,
+            "endTime": 185.71
+          }
+        ]
+      },
+      {
+        "time": 187.81,
+        "text": "我给你的爱写在西元前",
+        "wordTimings": [
+          {
+            "char": "我",
+            "startTime": 187.81,
+            "endTime": 187.98
+          },
+          {
+            "char": "给",
+            "startTime": 187.98,
+            "endTime": 188.24
+          },
+          {
+            "char": "你",
+            "startTime": 188.24,
+            "endTime": 188.42
+          },
+          {
+            "char": "的",
+            "startTime": 188.42,
+            "endTime": 188.59
+          },
+          {
+            "char": "爱",
+            "startTime": 188.59,
+            "endTime": 188.84
+          },
+          {
+            "char": "写",
+            "startTime": 188.84,
+            "endTime": 189.15
+          },
+          {
+            "char": "在",
+            "startTime": 189.15,
+            "endTime": 189.32
+          },
+          {
+            "char": "西",
+            "startTime": 189.32,
+            "endTime": 189.49
+          },
+          {
+            "char": "元",
+            "startTime": 189.49,
+            "endTime": 189.73
+          },
+          {
+            "char": "前",
+            "startTime": 189.73,
+            "endTime": 190.02
+          }
+        ]
+      },
+      {
+        "time": 190.3,
+        "text": "深埋在美索不达米亚平原",
+        "wordTimings": [
+          {
+            "char": "深",
+            "startTime": 190.3,
+            "endTime": 190.48
+          },
+          {
+            "char": "埋",
+            "startTime": 190.48,
+            "endTime": 190.7
+          },
+          {
+            "char": "在",
+            "startTime": 190.7,
+            "endTime": 190.98
+          },
+          {
+            "char": "美",
+            "startTime": 190.98,
+            "endTime": 191.18
+          },
+          {
+            "char": "索",
+            "startTime": 191.18,
+            "endTime": 191.4
+          },
+          {
+            "char": "不",
+            "startTime": 191.4,
+            "endTime": 191.65
+          },
+          {
+            "char": "达",
+            "startTime": 191.65,
+            "endTime": 191.88
+          },
+          {
+            "char": "米",
+            "startTime": 191.88,
+            "endTime": 192.15
+          },
+          {
+            "char": "亚",
+            "startTime": 192.15,
+            "endTime": 192.35
+          },
+          {
+            "char": "平",
+            "startTime": 192.35,
+            "endTime": 192.58
+          },
+          {
+            "char": "原",
+            "startTime": 192.58,
+            "endTime": 193.58
+          }
+        ]
+      },
+      {
+        "time": 195.32,
+        "text": "几十个世纪后出土发现",
+        "wordTimings": [
+          {
+            "char": "几",
+            "startTime": 195.32,
+            "endTime": 195.49
+          },
+          {
+            "char": "十",
+            "startTime": 195.49,
+            "endTime": 195.7
+          },
+          {
+            "char": "个",
+            "startTime": 195.7,
+            "endTime": 195.91
+          },
+          {
+            "char": "世",
+            "startTime": 195.91,
+            "endTime": 196.13
+          },
+          {
+            "char": "纪",
+            "startTime": 196.13,
+            "endTime": 196.36
+          },
+          {
+            "char": "后",
+            "startTime": 196.36,
+            "endTime": 196.59
+          },
+          {
+            "char": "出",
+            "startTime": 196.59,
+            "endTime": 196.82
+          },
+          {
+            "char": "土",
+            "startTime": 196.82,
+            "endTime": 197.08
+          },
+          {
+            "char": "发",
+            "startTime": 197.08,
+            "endTime": 197.31
+          },
+          {
+            "char": "现",
+            "startTime": 197.31,
+            "endTime": 197.65
+          }
+        ]
+      },
+      {
+        "time": 197.81,
+        "text": "泥板上的字迹依然清晰可见",
+        "wordTimings": [
+          {
+            "char": "泥",
+            "startTime": 197.81,
+            "endTime": 198.06
+          },
+          {
+            "char": "板",
+            "startTime": 198.06,
+            "endTime": 198.26
+          },
+          {
+            "char": "上",
+            "startTime": 198.26,
+            "endTime": 198.52
+          },
+          {
+            "char": "的",
+            "startTime": 198.52,
+            "endTime": 198.74
+          },
+          {
+            "char": "字",
+            "startTime": 198.74,
+            "endTime": 199.04
+          },
+          {
+            "char": "迹",
+            "startTime": 199.04,
+            "endTime": 199.22
+          },
+          {
+            "char": "依",
+            "startTime": 199.22,
+            "endTime": 199.45
+          },
+          {
+            "char": "然",
+            "startTime": 199.45,
+            "endTime": 199.73
+          },
+          {
+            "char": "清",
+            "startTime": 199.73,
+            "endTime": 199.94
+          },
+          {
+            "char": "晰",
+            "startTime": 199.94,
+            "endTime": 200.18
+          },
+          {
+            "char": "可",
+            "startTime": 200.18,
+            "endTime": 200.62
+          },
+          {
+            "char": "见",
+            "startTime": 200.62,
+            "endTime": 201.28
+          }
+        ]
+      },
+      {
+        "time": 202.87,
+        "text": "我给你的爱写在西元前",
+        "wordTimings": [
+          {
+            "char": "我",
+            "startTime": 202.87,
+            "endTime": 203.03
+          },
+          {
+            "char": "给",
+            "startTime": 203.03,
+            "endTime": 203.3
+          },
+          {
+            "char": "你",
+            "startTime": 203.3,
+            "endTime": 203.51
+          },
+          {
+            "char": "的",
+            "startTime": 203.51,
+            "endTime": 203.68
+          },
+          {
+            "char": "爱",
+            "startTime": 203.68,
+            "endTime": 203.96
+          },
+          {
+            "char": "写",
+            "startTime": 203.96,
+            "endTime": 204.18
+          },
+          {
+            "char": "在",
+            "startTime": 204.18,
+            "endTime": 204.4
+          },
+          {
+            "char": "西",
+            "startTime": 204.4,
+            "endTime": 204.63
+          },
+          {
+            "char": "元",
+            "startTime": 204.63,
+            "endTime": 204.89
+          },
+          {
+            "char": "前",
+            "startTime": 204.89,
+            "endTime": 205.16
+          }
+        ]
+      },
+      {
+        "time": 205.36,
+        "text": "深埋在美索不达米亚平原",
+        "wordTimings": [
+          {
+            "char": "深",
+            "startTime": 205.36,
+            "endTime": 205.64
+          },
+          {
+            "char": "埋",
+            "startTime": 205.64,
+            "endTime": 205.86
+          },
+          {
+            "char": "在",
+            "startTime": 205.86,
+            "endTime": 206.14
+          },
+          {
+            "char": "美",
+            "startTime": 206.14,
+            "endTime": 206.31
+          },
+          {
+            "char": "索",
+            "startTime": 206.31,
+            "endTime": 206.52
+          },
+          {
+            "char": "不",
+            "startTime": 206.52,
+            "endTime": 206.73
+          },
+          {
+            "char": "达",
+            "startTime": 206.73,
+            "endTime": 207
+          },
+          {
+            "char": "米",
+            "startTime": 207,
+            "endTime": 207.23
+          },
+          {
+            "char": "亚",
+            "startTime": 207.23,
+            "endTime": 207.46
+          },
+          {
+            "char": "平",
+            "startTime": 207.46,
+            "endTime": 207.68
+          },
+          {
+            "char": "原",
+            "startTime": 207.68,
+            "endTime": 208.61
+          }
+        ]
+      },
+      {
+        "time": 210.45,
+        "text": "用楔形文字刻下了永远",
+        "wordTimings": [
+          {
+            "char": "用",
+            "startTime": 210.45,
+            "endTime": 210.63
+          },
+          {
+            "char": "楔",
+            "startTime": 210.63,
+            "endTime": 210.81
+          },
+          {
+            "char": "形",
+            "startTime": 210.81,
+            "endTime": 211.06
+          },
+          {
+            "char": "文",
+            "startTime": 211.06,
+            "endTime": 211.27
+          },
+          {
+            "char": "字",
+            "startTime": 211.27,
+            "endTime": 211.49
+          },
+          {
+            "char": "刻",
+            "startTime": 211.49,
+            "endTime": 211.69
+          },
+          {
+            "char": "下",
+            "startTime": 211.69,
+            "endTime": 211.94
+          },
+          {
+            "char": "了",
+            "startTime": 211.94,
+            "endTime": 212.19
+          },
+          {
+            "char": "永",
+            "startTime": 212.19,
+            "endTime": 212.43
+          },
+          {
+            "char": "远",
+            "startTime": 212.43,
+            "endTime": 212.81
+          }
+        ]
+      },
+      {
+        "time": 212.96,
+        "text": "那已风化千年的誓言",
+        "wordTimings": [
+          {
+            "char": "那",
+            "startTime": 212.96,
+            "endTime": 213.17
+          },
+          {
+            "char": "已",
+            "startTime": 213.17,
+            "endTime": 213.4
+          },
+          {
+            "char": "风",
+            "startTime": 213.4,
+            "endTime": 213.95
+          },
+          {
+            "char": "化",
+            "startTime": 213.95,
+            "endTime": 214.48
+          },
+          {
+            "char": "千",
+            "startTime": 214.48,
+            "endTime": 214.93
+          },
+          {
+            "char": "年",
+            "startTime": 214.93,
+            "endTime": 215.11
+          },
+          {
+            "char": "的",
+            "startTime": 215.11,
+            "endTime": 215.45
+          },
+          {
+            "char": "誓",
+            "startTime": 215.45,
+            "endTime": 215.82
+          },
+          {
+            "char": "言",
+            "startTime": 215.82,
+            "endTime": 216.19
+          }
+        ]
+      },
+      {
+        "time": 216.39,
+        "text": "一切又重演",
+        "wordTimings": [
+          {
+            "char": "一",
+            "startTime": 216.39,
+            "endTime": 216.77
+          },
+          {
+            "char": "切",
+            "startTime": 216.77,
+            "endTime": 217.16
+          },
+          {
+            "char": "又",
+            "startTime": 217.16,
+            "endTime": 217.38
+          },
+          {
+            "char": "重",
+            "startTime": 217.38,
+            "endTime": 217.61
+          },
+          {
+            "char": "演",
+            "startTime": 217.61,
+            "endTime": 217.82
+          }
+        ]
+      },
+      {
+        "time": 217.82,
+        "text": "爱在西元前",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 217.82,
+            "endTime": 218
+          },
+          {
+            "char": "在",
+            "startTime": 218,
+            "endTime": 219.22
+          },
+          {
+            "char": "西",
+            "startTime": 219.22,
+            "endTime": 220.7
+          },
+          {
+            "char": "元",
+            "startTime": 220.7,
+            "endTime": 220.91
+          },
+          {
+            "char": "前",
+            "startTime": 220.91,
+            "endTime": 222.56
+          }
+        ]
+      },
+      {
+        "time": 224.66,
+        "text": "爱在西元前",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 224.66,
+            "endTime": 224.83
+          },
+          {
+            "char": "在",
+            "startTime": 224.83,
+            "endTime": 226.84
+          },
+          {
+            "char": "西",
+            "startTime": 226.84,
+            "endTime": 227.73
+          },
+          {
+            "char": "元",
+            "startTime": 227.73,
+            "endTime": 228.48
+          },
+          {
+            "char": "前",
+            "startTime": 228.48,
+            "endTime": 229.67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "孤勇者",
+    "artist": "陈奕迅",
+    "audio": "陈奕迅 - 孤勇者.mp3",
+    "background": "陈奕迅 - 孤勇者.png",
+    "lyrics": [
+      {
+        "time": 0.35,
+        "text": "陈奕迅 - 孤勇者",
+        "wordTimings": [
+          {
+            "char": "陈",
+            "startTime": 0.35,
+            "endTime": 0.81
+          },
+          {
+            "char": "奕",
+            "startTime": 0.81,
+            "endTime": 0.86
+          },
+          {
+            "char": "迅",
+            "startTime": 0.86,
+            "endTime": 0.91
+          },
+          {
+            "char": " ",
+            "startTime": 0.91,
+            "endTime": 0.91
+          },
+          {
+            "char": "-",
+            "startTime": 0.91,
+            "endTime": 0.96
+          },
+          {
+            "char": " ",
+            "startTime": 0.96,
+            "endTime": 1.01
+          },
+          {
+            "char": "孤",
+            "startTime": 1.01,
+            "endTime": 1.01
+          },
+          {
+            "char": "勇",
+            "startTime": 1.01,
+            "endTime": 1.51
+          },
+          {
+            "char": "者",
+            "startTime": 0.35,
+            "endTime": 0.85
+          }
+        ]
+      },
+      {
+        "time": 1.01,
+        "text": "作词：唐恬",
+        "wordTimings": [
+          {
+            "char": "作",
+            "startTime": 1.01,
+            "endTime": 1.06
+          },
+          {
+            "char": "词",
+            "startTime": 1.06,
+            "endTime": 1.06
+          },
+          {
+            "char": "：",
+            "startTime": 1.06,
+            "endTime": 1.11
+          },
+          {
+            "char": "唐",
+            "startTime": 1.11,
+            "endTime": 1.16
+          },
+          {
+            "char": "恬",
+            "startTime": 1.16,
+            "endTime": 1.66
+          }
+        ]
+      },
+      {
+        "time": 1.16,
+        "text": "作曲：钱雷",
+        "wordTimings": [
+          {
+            "char": "作",
+            "startTime": 1.16,
+            "endTime": 1.16
+          },
+          {
+            "char": "曲",
+            "startTime": 1.16,
+            "endTime": 1.21
+          },
+          {
+            "char": "：",
+            "startTime": 1.21,
+            "endTime": 1.26
+          },
+          {
+            "char": "钱",
+            "startTime": 1.26,
+            "endTime": 1.26
+          },
+          {
+            "char": "雷",
+            "startTime": 1.26,
+            "endTime": 1.76
+          }
+        ]
+      },
+      {
+        "time": 1.26,
+        "text": "编曲：钱雷",
+        "wordTimings": [
+          {
+            "char": "编",
+            "startTime": 1.26,
+            "endTime": 1.31
+          },
+          {
+            "char": "曲",
+            "startTime": 1.31,
+            "endTime": 1.3599999999999999
+          },
+          {
+            "char": "：",
+            "startTime": 1.3599999999999999,
+            "endTime": 1.3599999999999999
+          },
+          {
+            "char": "钱",
+            "startTime": 1.3599999999999999,
+            "endTime": 1.41
+          },
+          {
+            "char": "雷",
+            "startTime": 1.41,
+            "endTime": 1.91
+          }
+        ]
+      },
+      {
+        "time": 1.41,
+        "text": "吉他：高飞",
+        "wordTimings": [
+          {
+            "char": "吉",
+            "startTime": 1.41,
+            "endTime": 1.47
+          },
+          {
+            "char": "他",
+            "startTime": 1.47,
+            "endTime": 1.47
+          },
+          {
+            "char": "：",
+            "startTime": 1.47,
+            "endTime": 1.52
+          },
+          {
+            "char": "高",
+            "startTime": 1.52,
+            "endTime": 1.5699999999999998
+          },
+          {
+            "char": "飞",
+            "startTime": 1.5699999999999998,
+            "endTime": 2.07
+          }
+        ]
+      },
+      {
+        "time": 1.5699999999999998,
+        "text": "人声录音师：利伟明",
+        "wordTimings": [
+          {
+            "char": "人",
+            "startTime": 1.5699999999999998,
+            "endTime": 1.5699999999999998
+          },
+          {
+            "char": "声",
+            "startTime": 1.5699999999999998,
+            "endTime": 1.62
+          },
+          {
+            "char": "录",
+            "startTime": 1.62,
+            "endTime": 1.67
+          },
+          {
+            "char": "音",
+            "startTime": 1.67,
+            "endTime": 1.67
+          },
+          {
+            "char": "师",
+            "startTime": 1.67,
+            "endTime": 1.72
+          },
+          {
+            "char": "：",
+            "startTime": 1.72,
+            "endTime": 1.77
+          },
+          {
+            "char": "利",
+            "startTime": 1.77,
+            "endTime": 1.77
+          },
+          {
+            "char": "伟",
+            "startTime": 1.77,
+            "endTime": 1.8199999999999998
+          },
+          {
+            "char": "明",
+            "startTime": 1.8199999999999998,
+            "endTime": 2.32
+          }
+        ]
+      },
+      {
+        "time": 1.8199999999999998,
+        "text": "人声录音棚：雅旺录音室",
+        "wordTimings": [
+          {
+            "char": "人",
+            "startTime": 1.8199999999999998,
+            "endTime": 1.87
+          },
+          {
+            "char": "声",
+            "startTime": 1.87,
+            "endTime": 1.87
+          },
+          {
+            "char": "录",
+            "startTime": 1.87,
+            "endTime": 1.92
+          },
+          {
+            "char": "音",
+            "startTime": 1.92,
+            "endTime": 1.97
+          },
+          {
+            "char": "棚",
+            "startTime": 1.97,
+            "endTime": 1.97
+          },
+          {
+            "char": "：",
+            "startTime": 1.97,
+            "endTime": 2.02
+          },
+          {
+            "char": "雅",
+            "startTime": 2.02,
+            "endTime": 2.07
+          },
+          {
+            "char": "旺",
+            "startTime": 2.07,
+            "endTime": 2.07
+          },
+          {
+            "char": "录",
+            "startTime": 2.07,
+            "endTime": 2.12
+          },
+          {
+            "char": "音",
+            "startTime": 2.12,
+            "endTime": 2.18
+          },
+          {
+            "char": "室",
+            "startTime": 2.18,
+            "endTime": 2.68
+          }
+        ]
+      },
+      {
+        "time": 2.18,
+        "text": "Vocal edite：汝文博@SBMS Beijing",
+        "wordTimings": [
+          {
+            "char": "V",
+            "startTime": 2.18,
+            "endTime": 2.18
+          },
+          {
+            "char": "o",
+            "startTime": 2.18,
+            "endTime": 2.23
+          },
+          {
+            "char": "c",
+            "startTime": 2.23,
+            "endTime": 2.2800000000000002
+          },
+          {
+            "char": "a",
+            "startTime": 2.2800000000000002,
+            "endTime": 2.2800000000000002
+          },
+          {
+            "char": "l",
+            "startTime": 2.2800000000000002,
+            "endTime": 2.33
+          },
+          {
+            "char": " ",
+            "startTime": 2.33,
+            "endTime": 2.38
+          },
+          {
+            "char": "e",
+            "startTime": 2.38,
+            "endTime": 2.38
+          },
+          {
+            "char": "d",
+            "startTime": 2.38,
+            "endTime": 2.88
+          },
+          {
+            "char": "i",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "t",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "e",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "：",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "汝",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "文",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "博",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "@",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "S",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "B",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "M",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "S",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": " ",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "B",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "e",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "i",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "j",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "i",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "n",
+            "startTime": 2.18,
+            "endTime": 2.68
+          },
+          {
+            "char": "g",
+            "startTime": 2.18,
+            "endTime": 2.68
+          }
+        ]
+      },
+      {
+        "time": 2.38,
+        "text": "混音、母带：周天澈@Studio ２１A",
+        "wordTimings": [
+          {
+            "char": "混",
+            "startTime": 2.38,
+            "endTime": 2.43
+          },
+          {
+            "char": "音",
+            "startTime": 2.43,
+            "endTime": 2.48
+          },
+          {
+            "char": "、",
+            "startTime": 2.48,
+            "endTime": 2.48
+          },
+          {
+            "char": "母",
+            "startTime": 2.48,
+            "endTime": 2.5300000000000002
+          },
+          {
+            "char": "带",
+            "startTime": 2.5300000000000002,
+            "endTime": 2.58
+          },
+          {
+            "char": "：",
+            "startTime": 2.58,
+            "endTime": 2.58
+          },
+          {
+            "char": "周",
+            "startTime": 2.58,
+            "endTime": 2.63
+          },
+          {
+            "char": "天",
+            "startTime": 2.63,
+            "endTime": 2.68
+          },
+          {
+            "char": "澈",
+            "startTime": 2.68,
+            "endTime": 2.68
+          },
+          {
+            "char": "@",
+            "startTime": 2.68,
+            "endTime": 2.73
+          },
+          {
+            "char": "S",
+            "startTime": 2.73,
+            "endTime": 2.7800000000000002
+          },
+          {
+            "char": "t",
+            "startTime": 2.7800000000000002,
+            "endTime": 3.2800000000000002
+          },
+          {
+            "char": "u",
+            "startTime": 2.38,
+            "endTime": 2.88
+          },
+          {
+            "char": "d",
+            "startTime": 2.38,
+            "endTime": 2.88
+          },
+          {
+            "char": "i",
+            "startTime": 2.38,
+            "endTime": 2.88
+          },
+          {
+            "char": "o",
+            "startTime": 2.38,
+            "endTime": 2.88
+          },
+          {
+            "char": " ",
+            "startTime": 2.38,
+            "endTime": 2.88
+          },
+          {
+            "char": "２",
+            "startTime": 2.38,
+            "endTime": 2.88
+          },
+          {
+            "char": "１",
+            "startTime": 2.38,
+            "endTime": 2.88
+          },
+          {
+            "char": "A",
+            "startTime": 2.38,
+            "endTime": 2.88
+          }
+        ]
+      },
+      {
+        "time": 2.7800000000000002,
+        "text": "词版权管理方：北京梦织音传媒有限公司",
+        "wordTimings": [
+          {
+            "char": "词",
+            "startTime": 2.7800000000000002,
+            "endTime": 2.7800000000000002
+          },
+          {
+            "char": "版",
+            "startTime": 2.7800000000000002,
+            "endTime": 2.83
+          },
+          {
+            "char": "权",
+            "startTime": 2.83,
+            "endTime": 2.88
+          },
+          {
+            "char": "管",
+            "startTime": 2.88,
+            "endTime": 2.88
+          },
+          {
+            "char": "理",
+            "startTime": 2.88,
+            "endTime": 2.93
+          },
+          {
+            "char": "方",
+            "startTime": 2.93,
+            "endTime": 2.99
+          },
+          {
+            "char": "：",
+            "startTime": 2.99,
+            "endTime": 2.99
+          },
+          {
+            "char": "北",
+            "startTime": 2.99,
+            "endTime": 3.04
+          },
+          {
+            "char": "京",
+            "startTime": 3.04,
+            "endTime": 3.09
+          },
+          {
+            "char": "梦",
+            "startTime": 3.09,
+            "endTime": 3.09
+          },
+          {
+            "char": "织",
+            "startTime": 3.09,
+            "endTime": 3.14
+          },
+          {
+            "char": "音",
+            "startTime": 3.14,
+            "endTime": 3.19
+          },
+          {
+            "char": "传",
+            "startTime": 3.19,
+            "endTime": 3.19
+          },
+          {
+            "char": "媒",
+            "startTime": 3.19,
+            "endTime": 3.24
+          },
+          {
+            "char": "有",
+            "startTime": 3.24,
+            "endTime": 3.29
+          },
+          {
+            "char": "限",
+            "startTime": 3.29,
+            "endTime": 3.29
+          },
+          {
+            "char": "公",
+            "startTime": 3.29,
+            "endTime": 3.34
+          },
+          {
+            "char": "司",
+            "startTime": 3.34,
+            "endTime": 3.84
+          }
+        ]
+      },
+      {
+        "time": 3.34,
+        "text": "曲版权管理方：索尼音乐版权代理（北京）有限公司",
+        "wordTimings": [
+          {
+            "char": "曲",
+            "startTime": 3.34,
+            "endTime": 3.39
+          },
+          {
+            "char": "版",
+            "startTime": 3.39,
+            "endTime": 3.39
+          },
+          {
+            "char": "权",
+            "startTime": 3.39,
+            "endTime": 3.44
+          },
+          {
+            "char": "管",
+            "startTime": 3.44,
+            "endTime": 3.49
+          },
+          {
+            "char": "理",
+            "startTime": 3.49,
+            "endTime": 3.49
+          },
+          {
+            "char": "方",
+            "startTime": 3.49,
+            "endTime": 3.54
+          },
+          {
+            "char": "：",
+            "startTime": 3.54,
+            "endTime": 3.59
+          },
+          {
+            "char": "索",
+            "startTime": 3.59,
+            "endTime": 3.59
+          },
+          {
+            "char": "尼",
+            "startTime": 3.59,
+            "endTime": 3.64
+          },
+          {
+            "char": "音",
+            "startTime": 3.64,
+            "endTime": 3.69
+          },
+          {
+            "char": "乐",
+            "startTime": 3.69,
+            "endTime": 3.69
+          },
+          {
+            "char": "版",
+            "startTime": 3.69,
+            "endTime": 3.74
+          },
+          {
+            "char": "权",
+            "startTime": 3.74,
+            "endTime": 3.79
+          },
+          {
+            "char": "代",
+            "startTime": 3.79,
+            "endTime": 3.79
+          },
+          {
+            "char": "理",
+            "startTime": 3.79,
+            "endTime": 3.84
+          },
+          {
+            "char": "（",
+            "startTime": 3.84,
+            "endTime": 3.89
+          },
+          {
+            "char": "北",
+            "startTime": 3.89,
+            "endTime": 3.89
+          },
+          {
+            "char": "京",
+            "startTime": 3.89,
+            "endTime": 3.95
+          },
+          {
+            "char": "）",
+            "startTime": 3.95,
+            "endTime": 4
+          },
+          {
+            "char": "有",
+            "startTime": 4,
+            "endTime": 4
+          },
+          {
+            "char": "限",
+            "startTime": 4,
+            "endTime": 4.5
+          },
+          {
+            "char": "公",
+            "startTime": 3.34,
+            "endTime": 3.84
+          },
+          {
+            "char": "司",
+            "startTime": 3.34,
+            "endTime": 3.84
+          }
+        ]
+      },
+      {
+        "time": 4,
+        "text": "录音作品及MV版权：EAS MUSIC LTD",
+        "wordTimings": [
+          {
+            "char": "录",
+            "startTime": 4,
+            "endTime": 4.05
+          },
+          {
+            "char": "音",
+            "startTime": 4.05,
+            "endTime": 4.1
+          },
+          {
+            "char": "作",
+            "startTime": 4.1,
+            "endTime": 4.1
+          },
+          {
+            "char": "品",
+            "startTime": 4.1,
+            "endTime": 4.15
+          },
+          {
+            "char": "及",
+            "startTime": 4.15,
+            "endTime": 4.2
+          },
+          {
+            "char": "M",
+            "startTime": 4.2,
+            "endTime": 4.2
+          },
+          {
+            "char": "V",
+            "startTime": 4.2,
+            "endTime": 4.25
+          },
+          {
+            "char": "版",
+            "startTime": 4.25,
+            "endTime": 4.3
+          },
+          {
+            "char": "权",
+            "startTime": 4.3,
+            "endTime": 4.3
+          },
+          {
+            "char": "：",
+            "startTime": 4.3,
+            "endTime": 4.35
+          },
+          {
+            "char": "E",
+            "startTime": 4.35,
+            "endTime": 4.4
+          },
+          {
+            "char": "A",
+            "startTime": 4.4,
+            "endTime": 4.9
+          },
+          {
+            "char": "S",
+            "startTime": 4,
+            "endTime": 4.5
+          },
+          {
+            "char": " ",
+            "startTime": 4,
+            "endTime": 4.5
+          },
+          {
+            "char": "M",
+            "startTime": 4,
+            "endTime": 4.5
+          },
+          {
+            "char": "U",
+            "startTime": 4,
+            "endTime": 4.5
+          },
+          {
+            "char": "S",
+            "startTime": 4,
+            "endTime": 4.5
+          },
+          {
+            "char": "I",
+            "startTime": 4,
+            "endTime": 4.5
+          },
+          {
+            "char": "C",
+            "startTime": 4,
+            "endTime": 4.5
+          },
+          {
+            "char": " ",
+            "startTime": 4,
+            "endTime": 4.5
+          },
+          {
+            "char": "L",
+            "startTime": 4,
+            "endTime": 4.5
+          },
+          {
+            "char": "T",
+            "startTime": 4,
+            "endTime": 4.5
+          },
+          {
+            "char": "D",
+            "startTime": 4,
+            "endTime": 4.5
+          }
+        ]
+      },
+      {
+        "time": 4.4,
+        "text": "出品监制：霍锦、卢泓宇",
+        "wordTimings": [
+          {
+            "char": "出",
+            "startTime": 4.4,
+            "endTime": 4.4
+          },
+          {
+            "char": "品",
+            "startTime": 4.4,
+            "endTime": 4.45
+          },
+          {
+            "char": "监",
+            "startTime": 4.45,
+            "endTime": 4.5
+          },
+          {
+            "char": "制",
+            "startTime": 4.5,
+            "endTime": 4.5
+          },
+          {
+            "char": "：",
+            "startTime": 4.5,
+            "endTime": 4.55
+          },
+          {
+            "char": "霍",
+            "startTime": 4.55,
+            "endTime": 4.6
+          },
+          {
+            "char": "锦",
+            "startTime": 4.6,
+            "endTime": 4.6
+          },
+          {
+            "char": "、",
+            "startTime": 4.6,
+            "endTime": 4.65
+          },
+          {
+            "char": "卢",
+            "startTime": 4.65,
+            "endTime": 4.71
+          },
+          {
+            "char": "泓",
+            "startTime": 4.71,
+            "endTime": 5.21
+          },
+          {
+            "char": "宇",
+            "startTime": 4.4,
+            "endTime": 4.9
+          }
+        ]
+      },
+      {
+        "time": 4.71,
+        "text": "联合出品方：拳头游戏、腾讯游戏、腾讯视频",
+        "wordTimings": [
+          {
+            "char": "联",
+            "startTime": 4.71,
+            "endTime": 4.71
+          },
+          {
+            "char": "合",
+            "startTime": 4.71,
+            "endTime": 4.76
+          },
+          {
+            "char": "出",
+            "startTime": 4.76,
+            "endTime": 4.8100000000000005
+          },
+          {
+            "char": "品",
+            "startTime": 4.8100000000000005,
+            "endTime": 4.8100000000000005
+          },
+          {
+            "char": "方",
+            "startTime": 4.8100000000000005,
+            "endTime": 4.86
+          },
+          {
+            "char": "：",
+            "startTime": 4.86,
+            "endTime": 4.91
+          },
+          {
+            "char": "拳",
+            "startTime": 4.91,
+            "endTime": 4.91
+          },
+          {
+            "char": "头",
+            "startTime": 4.91,
+            "endTime": 4.96
+          },
+          {
+            "char": "游",
+            "startTime": 4.96,
+            "endTime": 4.96
+          },
+          {
+            "char": "戏",
+            "startTime": 4.96,
+            "endTime": 5.01
+          },
+          {
+            "char": "、",
+            "startTime": 5.01,
+            "endTime": 5.06
+          },
+          {
+            "char": "腾",
+            "startTime": 5.06,
+            "endTime": 5.06
+          },
+          {
+            "char": "讯",
+            "startTime": 5.06,
+            "endTime": 5.11
+          },
+          {
+            "char": "游",
+            "startTime": 5.11,
+            "endTime": 5.16
+          },
+          {
+            "char": "戏",
+            "startTime": 5.16,
+            "endTime": 5.16
+          },
+          {
+            "char": "、",
+            "startTime": 5.16,
+            "endTime": 5.21
+          },
+          {
+            "char": "腾",
+            "startTime": 5.21,
+            "endTime": 5.26
+          },
+          {
+            "char": "讯",
+            "startTime": 5.26,
+            "endTime": 5.76
+          },
+          {
+            "char": "视",
+            "startTime": 4.71,
+            "endTime": 5.21
+          },
+          {
+            "char": "频",
+            "startTime": 4.71,
+            "endTime": 5.21
+          }
+        ]
+      },
+      {
+        "time": 5.26,
+        "text": "制作人：钱雷",
+        "wordTimings": [
+          {
+            "char": "制",
+            "startTime": 5.26,
+            "endTime": 5.26
+          },
+          {
+            "char": "作",
+            "startTime": 5.26,
+            "endTime": 5.31
+          },
+          {
+            "char": "人",
+            "startTime": 5.31,
+            "endTime": 5.36
+          },
+          {
+            "char": "：",
+            "startTime": 5.36,
+            "endTime": 5.41
+          },
+          {
+            "char": "钱",
+            "startTime": 5.41,
+            "endTime": 5.62
+          },
+          {
+            "char": "雷",
+            "startTime": 5.62,
+            "endTime": 6.12
+          }
+        ]
+      },
+      {
+        "time": 22.49,
+        "text": "都是勇敢的",
+        "wordTimings": [
+          {
+            "char": "都",
+            "startTime": 22.49,
+            "endTime": 25.53
+          },
+          {
+            "char": "是",
+            "startTime": 25.53,
+            "endTime": 25.73
+          },
+          {
+            "char": "勇",
+            "startTime": 25.73,
+            "endTime": 25.88
+          },
+          {
+            "char": "敢",
+            "startTime": 25.88,
+            "endTime": 26.08
+          },
+          {
+            "char": "的",
+            "startTime": 26.08,
+            "endTime": 26.34
+          }
+        ]
+      },
+      {
+        "time": 28.76,
+        "text": "你额头的伤口",
+        "wordTimings": [
+          {
+            "char": "你",
+            "startTime": 28.76,
+            "endTime": 28.92
+          },
+          {
+            "char": "额",
+            "startTime": 28.92,
+            "endTime": 29.12
+          },
+          {
+            "char": "头",
+            "startTime": 29.12,
+            "endTime": 29.32
+          },
+          {
+            "char": "的",
+            "startTime": 29.32,
+            "endTime": 29.53
+          },
+          {
+            "char": "伤",
+            "startTime": 29.53,
+            "endTime": 29.73
+          },
+          {
+            "char": "口",
+            "startTime": 29.73,
+            "endTime": 30.03
+          }
+        ]
+      },
+      {
+        "time": 30.49,
+        "text": "你的不同你犯的错",
+        "wordTimings": [
+          {
+            "char": "你",
+            "startTime": 30.49,
+            "endTime": 30.69
+          },
+          {
+            "char": "的",
+            "startTime": 30.69,
+            "endTime": 31.4
+          },
+          {
+            "char": "不",
+            "startTime": 31.4,
+            "endTime": 31.6
+          },
+          {
+            "char": "同",
+            "startTime": 31.6,
+            "endTime": 32.31
+          },
+          {
+            "char": "你",
+            "startTime": 32.31,
+            "endTime": 32.47
+          },
+          {
+            "char": "犯",
+            "startTime": 32.47,
+            "endTime": 32.92
+          },
+          {
+            "char": "的",
+            "startTime": 32.92,
+            "endTime": 33.38
+          },
+          {
+            "char": "错",
+            "startTime": 33.38,
+            "endTime": 33.73
+          }
+        ]
+      },
+      {
+        "time": 37.22,
+        "text": "都不必隐藏",
+        "wordTimings": [
+          {
+            "char": "都",
+            "startTime": 37.22,
+            "endTime": 40.3
+          },
+          {
+            "char": "不",
+            "startTime": 40.3,
+            "endTime": 40.45
+          },
+          {
+            "char": "必",
+            "startTime": 40.45,
+            "endTime": 40.65
+          },
+          {
+            "char": "隐",
+            "startTime": 40.65,
+            "endTime": 40.86
+          },
+          {
+            "char": "藏",
+            "startTime": 40.86,
+            "endTime": 41.06
+          }
+        ]
+      },
+      {
+        "time": 43.54,
+        "text": "你破旧的玩偶",
+        "wordTimings": [
+          {
+            "char": "你",
+            "startTime": 43.54,
+            "endTime": 43.75
+          },
+          {
+            "char": "破",
+            "startTime": 43.75,
+            "endTime": 43.9
+          },
+          {
+            "char": "旧",
+            "startTime": 43.9,
+            "endTime": 44.1
+          },
+          {
+            "char": "的",
+            "startTime": 44.1,
+            "endTime": 44.3
+          },
+          {
+            "char": "玩",
+            "startTime": 44.3,
+            "endTime": 44.5
+          },
+          {
+            "char": "偶",
+            "startTime": 44.5,
+            "endTime": 44.76
+          }
+        ]
+      },
+      {
+        "time": 45.21,
+        "text": "你的面具你的自我",
+        "wordTimings": [
+          {
+            "char": "你",
+            "startTime": 45.21,
+            "endTime": 45.41
+          },
+          {
+            "char": "的",
+            "startTime": 45.41,
+            "endTime": 46.17
+          },
+          {
+            "char": "面",
+            "startTime": 46.17,
+            "endTime": 46.38
+          },
+          {
+            "char": "具",
+            "startTime": 46.38,
+            "endTime": 47.13
+          },
+          {
+            "char": "你",
+            "startTime": 47.13,
+            "endTime": 47.33
+          },
+          {
+            "char": "的",
+            "startTime": 47.33,
+            "endTime": 47.74
+          },
+          {
+            "char": "自",
+            "startTime": 47.74,
+            "endTime": 48.19
+          },
+          {
+            "char": "我",
+            "startTime": 48.19,
+            "endTime": 48.55
+          }
+        ]
+      },
+      {
+        "time": 52.09,
+        "text": "他们说要带着光",
+        "wordTimings": [
+          {
+            "char": "他",
+            "startTime": 52.09,
+            "endTime": 52.29
+          },
+          {
+            "char": "们",
+            "startTime": 52.29,
+            "endTime": 52.49
+          },
+          {
+            "char": "说",
+            "startTime": 52.49,
+            "endTime": 53.09
+          },
+          {
+            "char": "要",
+            "startTime": 53.09,
+            "endTime": 53.3
+          },
+          {
+            "char": "带",
+            "startTime": 53.3,
+            "endTime": 53.55
+          },
+          {
+            "char": "着",
+            "startTime": 53.55,
+            "endTime": 53.8
+          },
+          {
+            "char": "光",
+            "startTime": 53.8,
+            "endTime": 54.31
+          }
+        ]
+      },
+      {
+        "time": 54.31,
+        "text": "驯服每一头怪兽",
+        "wordTimings": [
+          {
+            "char": "驯",
+            "startTime": 54.31,
+            "endTime": 54.51
+          },
+          {
+            "char": "服",
+            "startTime": 54.51,
+            "endTime": 54.71
+          },
+          {
+            "char": "每",
+            "startTime": 54.71,
+            "endTime": 54.92
+          },
+          {
+            "char": "一",
+            "startTime": 54.92,
+            "endTime": 55.17
+          },
+          {
+            "char": "头",
+            "startTime": 55.17,
+            "endTime": 55.37
+          },
+          {
+            "char": "怪",
+            "startTime": 55.37,
+            "endTime": 55.83
+          },
+          {
+            "char": "兽",
+            "startTime": 55.83,
+            "endTime": 56.13
+          }
+        ]
+      },
+      {
+        "time": 58.91,
+        "text": "他们说要缝好你的伤",
+        "wordTimings": [
+          {
+            "char": "他",
+            "startTime": 58.91,
+            "endTime": 59.06
+          },
+          {
+            "char": "们",
+            "startTime": 59.06,
+            "endTime": 59.32
+          },
+          {
+            "char": "说",
+            "startTime": 59.32,
+            "endTime": 60.02
+          },
+          {
+            "char": "要",
+            "startTime": 60.02,
+            "endTime": 60.23
+          },
+          {
+            "char": "缝",
+            "startTime": 60.23,
+            "endTime": 60.43
+          },
+          {
+            "char": "好",
+            "startTime": 60.43,
+            "endTime": 60.63
+          },
+          {
+            "char": "你",
+            "startTime": 60.63,
+            "endTime": 60.89
+          },
+          {
+            "char": "的",
+            "startTime": 60.89,
+            "endTime": 61.14
+          },
+          {
+            "char": "伤",
+            "startTime": 61.14,
+            "endTime": 61.44
+          }
+        ]
+      },
+      {
+        "time": 61.85,
+        "text": "没有人爱小丑",
+        "wordTimings": [
+          {
+            "char": "没",
+            "startTime": 61.85,
+            "endTime": 62.05
+          },
+          {
+            "char": "有",
+            "startTime": 62.05,
+            "endTime": 62.25
+          },
+          {
+            "char": "人",
+            "startTime": 62.25,
+            "endTime": 62.51
+          },
+          {
+            "char": "爱",
+            "startTime": 62.51,
+            "endTime": 63.31
+          },
+          {
+            "char": "小",
+            "startTime": 63.31,
+            "endTime": 63.72
+          },
+          {
+            "char": "丑",
+            "startTime": 63.72,
+            "endTime": 64.02
+          }
+        ]
+      },
+      {
+        "time": 66.2,
+        "text": "为何孤独不可光荣",
+        "wordTimings": [
+          {
+            "char": "为",
+            "startTime": 66.2,
+            "endTime": 66.35
+          },
+          {
+            "char": "何",
+            "startTime": 66.35,
+            "endTime": 66.55
+          },
+          {
+            "char": "孤",
+            "startTime": 66.55,
+            "endTime": 66.75
+          },
+          {
+            "char": "独",
+            "startTime": 66.75,
+            "endTime": 67.41
+          },
+          {
+            "char": "不",
+            "startTime": 67.41,
+            "endTime": 67.61
+          },
+          {
+            "char": "可",
+            "startTime": 67.61,
+            "endTime": 68.37
+          },
+          {
+            "char": "光",
+            "startTime": 68.37,
+            "endTime": 68.57
+          },
+          {
+            "char": "荣",
+            "startTime": 68.57,
+            "endTime": 68.77
+          }
+        ]
+      },
+      {
+        "time": 69.28,
+        "text": "人只有不完美值得歌颂",
+        "wordTimings": [
+          {
+            "char": "人",
+            "startTime": 69.28,
+            "endTime": 69.48
+          },
+          {
+            "char": "只",
+            "startTime": 69.48,
+            "endTime": 69.68
+          },
+          {
+            "char": "有",
+            "startTime": 69.68,
+            "endTime": 69.89
+          },
+          {
+            "char": "不",
+            "startTime": 69.89,
+            "endTime": 70.14
+          },
+          {
+            "char": "完",
+            "startTime": 70.14,
+            "endTime": 70.34
+          },
+          {
+            "char": "美",
+            "startTime": 70.34,
+            "endTime": 71.05
+          },
+          {
+            "char": "值",
+            "startTime": 71.05,
+            "endTime": 71.25
+          },
+          {
+            "char": "得",
+            "startTime": 71.25,
+            "endTime": 72.01
+          },
+          {
+            "char": "歌",
+            "startTime": 72.01,
+            "endTime": 72.21
+          },
+          {
+            "char": "颂",
+            "startTime": 72.21,
+            "endTime": 72.47
+          }
+        ]
+      },
+      {
+        "time": 73.58,
+        "text": "谁说污泥满身的不算英雄",
+        "wordTimings": [
+          {
+            "char": "谁",
+            "startTime": 73.58,
+            "endTime": 73.78
+          },
+          {
+            "char": "说",
+            "startTime": 73.78,
+            "endTime": 74.04
+          },
+          {
+            "char": "污",
+            "startTime": 74.04,
+            "endTime": 74.49
+          },
+          {
+            "char": "泥",
+            "startTime": 74.49,
+            "endTime": 74.95
+          },
+          {
+            "char": "满",
+            "startTime": 74.95,
+            "endTime": 75.4
+          },
+          {
+            "char": "身",
+            "startTime": 75.4,
+            "endTime": 75.86
+          },
+          {
+            "char": "的",
+            "startTime": 75.86,
+            "endTime": 76.67
+          },
+          {
+            "char": "不",
+            "startTime": 76.67,
+            "endTime": 76.82
+          },
+          {
+            "char": "算",
+            "startTime": 76.82,
+            "endTime": 77.28
+          },
+          {
+            "char": "英",
+            "startTime": 77.28,
+            "endTime": 77.73
+          },
+          {
+            "char": "雄",
+            "startTime": 77.73,
+            "endTime": 78.14
+          }
+        ]
+      },
+      {
+        "time": 81.02,
+        "text": "爱你孤身走暗巷",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 81.02,
+            "endTime": 81.17
+          },
+          {
+            "char": "你",
+            "startTime": 81.17,
+            "endTime": 81.43
+          },
+          {
+            "char": "孤",
+            "startTime": 81.43,
+            "endTime": 81.68
+          },
+          {
+            "char": "身",
+            "startTime": 81.68,
+            "endTime": 81.93
+          },
+          {
+            "char": "走",
+            "startTime": 81.93,
+            "endTime": 82.13
+          },
+          {
+            "char": "暗",
+            "startTime": 82.13,
+            "endTime": 82.34
+          },
+          {
+            "char": "巷",
+            "startTime": 82.34,
+            "endTime": 82.59
+          }
+        ]
+      },
+      {
+        "time": 82.84,
+        "text": "爱你不跪的模样",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 82.84,
+            "endTime": 83.05
+          },
+          {
+            "char": "你",
+            "startTime": 83.05,
+            "endTime": 83.3
+          },
+          {
+            "char": "不",
+            "startTime": 83.3,
+            "endTime": 83.5
+          },
+          {
+            "char": "跪",
+            "startTime": 83.5,
+            "endTime": 83.75
+          },
+          {
+            "char": "的",
+            "startTime": 83.75,
+            "endTime": 83.96
+          },
+          {
+            "char": "模",
+            "startTime": 83.96,
+            "endTime": 84.21
+          },
+          {
+            "char": "样",
+            "startTime": 84.21,
+            "endTime": 84.46
+          }
+        ]
+      },
+      {
+        "time": 84.71,
+        "text": "爱你对峙过绝望",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 84.71,
+            "endTime": 84.92
+          },
+          {
+            "char": "你",
+            "startTime": 84.92,
+            "endTime": 85.12
+          },
+          {
+            "char": "对",
+            "startTime": 85.12,
+            "endTime": 85.37
+          },
+          {
+            "char": "峙",
+            "startTime": 85.37,
+            "endTime": 85.57
+          },
+          {
+            "char": "过",
+            "startTime": 85.57,
+            "endTime": 85.83
+          },
+          {
+            "char": "绝",
+            "startTime": 85.83,
+            "endTime": 86.03
+          },
+          {
+            "char": "望",
+            "startTime": 86.03,
+            "endTime": 86.34
+          }
+        ]
+      },
+      {
+        "time": 86.54,
+        "text": "不肯哭一场",
+        "wordTimings": [
+          {
+            "char": "不",
+            "startTime": 86.54,
+            "endTime": 86.74
+          },
+          {
+            "char": "肯",
+            "startTime": 86.74,
+            "endTime": 87
+          },
+          {
+            "char": "哭",
+            "startTime": 87,
+            "endTime": 87.4
+          },
+          {
+            "char": "一",
+            "startTime": 87.4,
+            "endTime": 87.91
+          },
+          {
+            "char": "场",
+            "startTime": 87.91,
+            "endTime": 88.16
+          }
+        ]
+      },
+      {
+        "time": 88.36,
+        "text": "爱你破烂的衣裳",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 88.36,
+            "endTime": 88.56
+          },
+          {
+            "char": "你",
+            "startTime": 88.56,
+            "endTime": 88.76
+          },
+          {
+            "char": "破",
+            "startTime": 88.76,
+            "endTime": 89.02
+          },
+          {
+            "char": "烂",
+            "startTime": 89.02,
+            "endTime": 89.27
+          },
+          {
+            "char": "的",
+            "startTime": 89.27,
+            "endTime": 89.47
+          },
+          {
+            "char": "衣",
+            "startTime": 89.47,
+            "endTime": 89.78
+          },
+          {
+            "char": "裳",
+            "startTime": 89.78,
+            "endTime": 90.03
+          }
+        ]
+      },
+      {
+        "time": 90.23,
+        "text": "却敢堵命运的枪",
+        "wordTimings": [
+          {
+            "char": "却",
+            "startTime": 90.23,
+            "endTime": 90.43
+          },
+          {
+            "char": "敢",
+            "startTime": 90.43,
+            "endTime": 90.64
+          },
+          {
+            "char": "堵",
+            "startTime": 90.64,
+            "endTime": 90.89
+          },
+          {
+            "char": "命",
+            "startTime": 90.89,
+            "endTime": 91.09
+          },
+          {
+            "char": "运",
+            "startTime": 91.09,
+            "endTime": 91.29
+          },
+          {
+            "char": "的",
+            "startTime": 91.29,
+            "endTime": 91.55
+          },
+          {
+            "char": "枪",
+            "startTime": 91.55,
+            "endTime": 91.8
+          }
+        ]
+      },
+      {
+        "time": 92.05,
+        "text": "爱你和我那么像",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 92.05,
+            "endTime": 92.3
+          },
+          {
+            "char": "你",
+            "startTime": 92.3,
+            "endTime": 92.51
+          },
+          {
+            "char": "和",
+            "startTime": 92.51,
+            "endTime": 92.76
+          },
+          {
+            "char": "我",
+            "startTime": 92.76,
+            "endTime": 93.01
+          },
+          {
+            "char": "那",
+            "startTime": 93.01,
+            "endTime": 93.22
+          },
+          {
+            "char": "么",
+            "startTime": 93.22,
+            "endTime": 93.47
+          },
+          {
+            "char": "像",
+            "startTime": 93.47,
+            "endTime": 93.72
+          }
+        ]
+      },
+      {
+        "time": 93.92,
+        "text": "缺口都一样",
+        "wordTimings": [
+          {
+            "char": "缺",
+            "startTime": 93.92,
+            "endTime": 94.12
+          },
+          {
+            "char": "口",
+            "startTime": 94.12,
+            "endTime": 94.38
+          },
+          {
+            "char": "都",
+            "startTime": 94.38,
+            "endTime": 94.78
+          },
+          {
+            "char": "一",
+            "startTime": 94.78,
+            "endTime": 95.29
+          },
+          {
+            "char": "样",
+            "startTime": 95.29,
+            "endTime": 95.49
+          }
+        ]
+      },
+      {
+        "time": 95.75,
+        "text": "去吗 配吗 这褴褛的披风",
+        "wordTimings": [
+          {
+            "char": "去",
+            "startTime": 95.75,
+            "endTime": 96.2
+          },
+          {
+            "char": "吗",
+            "startTime": 96.2,
+            "endTime": 96.96
+          },
+          {
+            "char": " ",
+            "startTime": 96.96,
+            "endTime": 97.11
+          },
+          {
+            "char": "配",
+            "startTime": 97.11,
+            "endTime": 97.92
+          },
+          {
+            "char": "吗",
+            "startTime": 97.92,
+            "endTime": 98.13
+          },
+          {
+            "char": " ",
+            "startTime": 98.13,
+            "endTime": 98.33
+          },
+          {
+            "char": "这",
+            "startTime": 98.33,
+            "endTime": 98.53
+          },
+          {
+            "char": "褴",
+            "startTime": 98.53,
+            "endTime": 98.73
+          },
+          {
+            "char": "褛",
+            "startTime": 98.73,
+            "endTime": 98.99
+          },
+          {
+            "char": "的",
+            "startTime": 98.99,
+            "endTime": 99.24
+          },
+          {
+            "char": "披",
+            "startTime": 99.24,
+            "endTime": 99.74
+          },
+          {
+            "char": "风",
+            "startTime": 95.75,
+            "endTime": 96.25
+          }
+        ]
+      },
+      {
+        "time": 99.49,
+        "text": "战吗 战啊 以最卑微的梦",
+        "wordTimings": [
+          {
+            "char": "战",
+            "startTime": 99.49,
+            "endTime": 99.9
+          },
+          {
+            "char": "吗",
+            "startTime": 99.9,
+            "endTime": 100.66
+          },
+          {
+            "char": " ",
+            "startTime": 100.66,
+            "endTime": 100.86
+          },
+          {
+            "char": "战",
+            "startTime": 100.86,
+            "endTime": 101.62
+          },
+          {
+            "char": "啊",
+            "startTime": 101.62,
+            "endTime": 101.82
+          },
+          {
+            "char": " ",
+            "startTime": 101.82,
+            "endTime": 102.03
+          },
+          {
+            "char": "以",
+            "startTime": 102.03,
+            "endTime": 102.23
+          },
+          {
+            "char": "最",
+            "startTime": 102.23,
+            "endTime": 102.48
+          },
+          {
+            "char": "卑",
+            "startTime": 102.48,
+            "endTime": 102.68
+          },
+          {
+            "char": "微",
+            "startTime": 102.68,
+            "endTime": 102.94
+          },
+          {
+            "char": "的",
+            "startTime": 102.94,
+            "endTime": 103.44
+          },
+          {
+            "char": "梦",
+            "startTime": 99.49,
+            "endTime": 99.99
+          }
+        ]
+      },
+      {
+        "time": 103.14,
+        "text": "致那黑夜中的呜咽与怒吼",
+        "wordTimings": [
+          {
+            "char": "致",
+            "startTime": 103.14,
+            "endTime": 103.34
+          },
+          {
+            "char": "那",
+            "startTime": 103.34,
+            "endTime": 103.59
+          },
+          {
+            "char": "黑",
+            "startTime": 103.59,
+            "endTime": 104.05
+          },
+          {
+            "char": "夜",
+            "startTime": 104.05,
+            "endTime": 104.51
+          },
+          {
+            "char": "中",
+            "startTime": 104.51,
+            "endTime": 104.96
+          },
+          {
+            "char": "的",
+            "startTime": 104.96,
+            "endTime": 105.17
+          },
+          {
+            "char": "呜",
+            "startTime": 105.17,
+            "endTime": 105.93
+          },
+          {
+            "char": "咽",
+            "startTime": 105.93,
+            "endTime": 106.33
+          },
+          {
+            "char": "与",
+            "startTime": 106.33,
+            "endTime": 106.84
+          },
+          {
+            "char": "怒",
+            "startTime": 106.84,
+            "endTime": 107.04
+          },
+          {
+            "char": "吼",
+            "startTime": 107.04,
+            "endTime": 107.45
+          }
+        ]
+      },
+      {
+        "time": 110.53,
+        "text": "谁说站在光里的才算英雄",
+        "wordTimings": [
+          {
+            "char": "谁",
+            "startTime": 110.53,
+            "endTime": 110.73
+          },
+          {
+            "char": "说",
+            "startTime": 110.73,
+            "endTime": 110.98
+          },
+          {
+            "char": "站",
+            "startTime": 110.98,
+            "endTime": 111.39
+          },
+          {
+            "char": "在",
+            "startTime": 111.39,
+            "endTime": 111.89
+          },
+          {
+            "char": "光",
+            "startTime": 111.89,
+            "endTime": 112.4
+          },
+          {
+            "char": "里",
+            "startTime": 112.4,
+            "endTime": 112.6
+          },
+          {
+            "char": "的",
+            "startTime": 112.6,
+            "endTime": 113.36
+          },
+          {
+            "char": "才",
+            "startTime": 113.36,
+            "endTime": 113.76
+          },
+          {
+            "char": "算",
+            "startTime": 113.76,
+            "endTime": 114.22
+          },
+          {
+            "char": "英",
+            "startTime": 114.22,
+            "endTime": 114.42
+          },
+          {
+            "char": "雄",
+            "startTime": 114.42,
+            "endTime": 114.83
+          }
+        ]
+      },
+      {
+        "time": 129.08,
+        "text": "他们说要戒了你的狂",
+        "wordTimings": [
+          {
+            "char": "他",
+            "startTime": 129.08,
+            "endTime": 129.24
+          },
+          {
+            "char": "们",
+            "startTime": 129.24,
+            "endTime": 129.49
+          },
+          {
+            "char": "说",
+            "startTime": 129.49,
+            "endTime": 130.15
+          },
+          {
+            "char": "要",
+            "startTime": 130.15,
+            "endTime": 130.35
+          },
+          {
+            "char": "戒",
+            "startTime": 130.35,
+            "endTime": 130.55
+          },
+          {
+            "char": "了",
+            "startTime": 130.55,
+            "endTime": 130.75
+          },
+          {
+            "char": "你",
+            "startTime": 130.75,
+            "endTime": 130.96
+          },
+          {
+            "char": "的",
+            "startTime": 130.96,
+            "endTime": 131.26
+          },
+          {
+            "char": "狂",
+            "startTime": 131.26,
+            "endTime": 131.46
+          }
+        ]
+      },
+      {
+        "time": 131.77,
+        "text": "就像擦掉了污垢",
+        "wordTimings": [
+          {
+            "char": "就",
+            "startTime": 131.77,
+            "endTime": 131.97
+          },
+          {
+            "char": "像",
+            "startTime": 131.97,
+            "endTime": 132.17
+          },
+          {
+            "char": "擦",
+            "startTime": 132.17,
+            "endTime": 132.42
+          },
+          {
+            "char": "掉",
+            "startTime": 132.42,
+            "endTime": 132.68
+          },
+          {
+            "char": "了",
+            "startTime": 132.68,
+            "endTime": 132.93
+          },
+          {
+            "char": "污",
+            "startTime": 132.93,
+            "endTime": 133.43
+          },
+          {
+            "char": "垢",
+            "startTime": 133.43,
+            "endTime": 133.69
+          }
+        ]
+      },
+      {
+        "time": 136.41,
+        "text": "他们说要顺台阶而上",
+        "wordTimings": [
+          {
+            "char": "他",
+            "startTime": 136.41,
+            "endTime": 136.62
+          },
+          {
+            "char": "们",
+            "startTime": 136.62,
+            "endTime": 136.82
+          },
+          {
+            "char": "说",
+            "startTime": 136.82,
+            "endTime": 137.53
+          },
+          {
+            "char": "要",
+            "startTime": 137.53,
+            "endTime": 137.73
+          },
+          {
+            "char": "顺",
+            "startTime": 137.73,
+            "endTime": 137.93
+          },
+          {
+            "char": "台",
+            "startTime": 137.93,
+            "endTime": 138.19
+          },
+          {
+            "char": "阶",
+            "startTime": 138.19,
+            "endTime": 138.44
+          },
+          {
+            "char": "而",
+            "startTime": 138.44,
+            "endTime": 138.64
+          },
+          {
+            "char": "上",
+            "startTime": 138.64,
+            "endTime": 138.95
+          }
+        ]
+      },
+      {
+        "time": 139.35,
+        "text": "而代价是低头",
+        "wordTimings": [
+          {
+            "char": "而",
+            "startTime": 139.35,
+            "endTime": 139.61
+          },
+          {
+            "char": "代",
+            "startTime": 139.61,
+            "endTime": 139.81
+          },
+          {
+            "char": "价",
+            "startTime": 139.81,
+            "endTime": 140.06
+          },
+          {
+            "char": "是",
+            "startTime": 140.06,
+            "endTime": 140.47
+          },
+          {
+            "char": "低",
+            "startTime": 140.47,
+            "endTime": 140.82
+          },
+          {
+            "char": "头",
+            "startTime": 140.82,
+            "endTime": 141.07
+          }
+        ]
+      },
+      {
+        "time": 143.6,
+        "text": "那就让我不可乘风",
+        "wordTimings": [
+          {
+            "char": "那",
+            "startTime": 143.6,
+            "endTime": 143.81
+          },
+          {
+            "char": "就",
+            "startTime": 143.81,
+            "endTime": 144.01
+          },
+          {
+            "char": "让",
+            "startTime": 144.01,
+            "endTime": 144.26
+          },
+          {
+            "char": "我",
+            "startTime": 144.26,
+            "endTime": 144.92
+          },
+          {
+            "char": "不",
+            "startTime": 144.92,
+            "endTime": 145.12
+          },
+          {
+            "char": "可",
+            "startTime": 145.12,
+            "endTime": 145.84
+          },
+          {
+            "char": "乘",
+            "startTime": 145.84,
+            "endTime": 146.04
+          },
+          {
+            "char": "风",
+            "startTime": 146.04,
+            "endTime": 146.24
+          }
+        ]
+      },
+      {
+        "time": 146.85,
+        "text": "你一样骄傲着那种孤勇",
+        "wordTimings": [
+          {
+            "char": "你",
+            "startTime": 146.85,
+            "endTime": 147
+          },
+          {
+            "char": "一",
+            "startTime": 147,
+            "endTime": 147.2
+          },
+          {
+            "char": "样",
+            "startTime": 147.2,
+            "endTime": 147.4
+          },
+          {
+            "char": "骄",
+            "startTime": 147.4,
+            "endTime": 147.66
+          },
+          {
+            "char": "傲",
+            "startTime": 147.66,
+            "endTime": 147.86
+          },
+          {
+            "char": "着",
+            "startTime": 147.86,
+            "endTime": 148.62
+          },
+          {
+            "char": "那",
+            "startTime": 148.62,
+            "endTime": 148.82
+          },
+          {
+            "char": "种",
+            "startTime": 148.82,
+            "endTime": 149.58
+          },
+          {
+            "char": "孤",
+            "startTime": 149.58,
+            "endTime": 149.73
+          },
+          {
+            "char": "勇",
+            "startTime": 149.73,
+            "endTime": 149.99
+          }
+        ]
+      },
+      {
+        "time": 151.15,
+        "text": "谁说对弈平凡的不算英雄",
+        "wordTimings": [
+          {
+            "char": "谁",
+            "startTime": 151.15,
+            "endTime": 151.36
+          },
+          {
+            "char": "说",
+            "startTime": 151.36,
+            "endTime": 151.56
+          },
+          {
+            "char": "对",
+            "startTime": 151.56,
+            "endTime": 152.02
+          },
+          {
+            "char": "弈",
+            "startTime": 152.02,
+            "endTime": 152.52
+          },
+          {
+            "char": "平",
+            "startTime": 152.52,
+            "endTime": 152.98
+          },
+          {
+            "char": "凡",
+            "startTime": 152.98,
+            "endTime": 153.43
+          },
+          {
+            "char": "的",
+            "startTime": 153.43,
+            "endTime": 154.14
+          },
+          {
+            "char": "不",
+            "startTime": 154.14,
+            "endTime": 154.34
+          },
+          {
+            "char": "算",
+            "startTime": 154.34,
+            "endTime": 154.8
+          },
+          {
+            "char": "英",
+            "startTime": 154.8,
+            "endTime": 155.25
+          },
+          {
+            "char": "雄",
+            "startTime": 155.25,
+            "endTime": 155.66
+          }
+        ]
+      },
+      {
+        "time": 158.59,
+        "text": "爱你孤身走暗巷",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 158.59,
+            "endTime": 158.8
+          },
+          {
+            "char": "你",
+            "startTime": 158.8,
+            "endTime": 159
+          },
+          {
+            "char": "孤",
+            "startTime": 159,
+            "endTime": 159.25
+          },
+          {
+            "char": "身",
+            "startTime": 159.25,
+            "endTime": 159.45
+          },
+          {
+            "char": "走",
+            "startTime": 159.45,
+            "endTime": 159.7
+          },
+          {
+            "char": "暗",
+            "startTime": 159.7,
+            "endTime": 159.96
+          },
+          {
+            "char": "巷",
+            "startTime": 159.96,
+            "endTime": 160.16
+          }
+        ]
+      },
+      {
+        "time": 160.41,
+        "text": "爱你不跪的模样",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 160.41,
+            "endTime": 160.61
+          },
+          {
+            "char": "你",
+            "startTime": 160.61,
+            "endTime": 160.87
+          },
+          {
+            "char": "不",
+            "startTime": 160.87,
+            "endTime": 161.07
+          },
+          {
+            "char": "跪",
+            "startTime": 161.07,
+            "endTime": 161.27
+          },
+          {
+            "char": "的",
+            "startTime": 161.27,
+            "endTime": 161.47
+          },
+          {
+            "char": "模",
+            "startTime": 161.47,
+            "endTime": 161.73
+          },
+          {
+            "char": "样",
+            "startTime": 161.73,
+            "endTime": 161.98
+          }
+        ]
+      },
+      {
+        "time": 162.23,
+        "text": "爱你对峙过绝望",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 162.23,
+            "endTime": 162.48
+          },
+          {
+            "char": "你",
+            "startTime": 162.48,
+            "endTime": 162.69
+          },
+          {
+            "char": "对",
+            "startTime": 162.69,
+            "endTime": 162.94
+          },
+          {
+            "char": "峙",
+            "startTime": 162.94,
+            "endTime": 163.14
+          },
+          {
+            "char": "过",
+            "startTime": 163.14,
+            "endTime": 163.4
+          },
+          {
+            "char": "绝",
+            "startTime": 163.4,
+            "endTime": 163.6
+          },
+          {
+            "char": "望",
+            "startTime": 163.6,
+            "endTime": 163.9
+          }
+        ]
+      },
+      {
+        "time": 164.11,
+        "text": "不肯哭一场",
+        "wordTimings": [
+          {
+            "char": "不",
+            "startTime": 164.11,
+            "endTime": 164.31
+          },
+          {
+            "char": "肯",
+            "startTime": 164.31,
+            "endTime": 164.51
+          },
+          {
+            "char": "哭",
+            "startTime": 164.51,
+            "endTime": 164.97
+          },
+          {
+            "char": "一",
+            "startTime": 164.97,
+            "endTime": 165.42
+          },
+          {
+            "char": "场",
+            "startTime": 165.42,
+            "endTime": 165.73
+          }
+        ]
+      },
+      {
+        "time": 165.93,
+        "text": "爱你破烂的衣裳",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 165.93,
+            "endTime": 166.18
+          },
+          {
+            "char": "你",
+            "startTime": 166.18,
+            "endTime": 166.38
+          },
+          {
+            "char": "破",
+            "startTime": 166.38,
+            "endTime": 166.59
+          },
+          {
+            "char": "烂",
+            "startTime": 166.59,
+            "endTime": 166.84
+          },
+          {
+            "char": "的",
+            "startTime": 166.84,
+            "endTime": 167.09
+          },
+          {
+            "char": "衣",
+            "startTime": 167.09,
+            "endTime": 167.35
+          },
+          {
+            "char": "裳",
+            "startTime": 167.35,
+            "endTime": 167.6
+          }
+        ]
+      },
+      {
+        "time": 167.8,
+        "text": "却敢堵命运的枪",
+        "wordTimings": [
+          {
+            "char": "却",
+            "startTime": 167.8,
+            "endTime": 168
+          },
+          {
+            "char": "敢",
+            "startTime": 168,
+            "endTime": 168.21
+          },
+          {
+            "char": "堵",
+            "startTime": 168.21,
+            "endTime": 168.46
+          },
+          {
+            "char": "命",
+            "startTime": 168.46,
+            "endTime": 168.67
+          },
+          {
+            "char": "运",
+            "startTime": 168.67,
+            "endTime": 168.92
+          },
+          {
+            "char": "的",
+            "startTime": 168.92,
+            "endTime": 169.12
+          },
+          {
+            "char": "枪",
+            "startTime": 169.12,
+            "endTime": 169.37
+          }
+        ]
+      },
+      {
+        "time": 169.58,
+        "text": "爱你和我那么像",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 169.58,
+            "endTime": 169.83
+          },
+          {
+            "char": "你",
+            "startTime": 169.83,
+            "endTime": 170.09
+          },
+          {
+            "char": "和",
+            "startTime": 170.09,
+            "endTime": 170.34
+          },
+          {
+            "char": "我",
+            "startTime": 170.34,
+            "endTime": 170.54
+          },
+          {
+            "char": "那",
+            "startTime": 170.54,
+            "endTime": 170.79
+          },
+          {
+            "char": "么",
+            "startTime": 170.79,
+            "endTime": 170.99
+          },
+          {
+            "char": "像",
+            "startTime": 170.99,
+            "endTime": 171.25
+          }
+        ]
+      },
+      {
+        "time": 171.5,
+        "text": "缺口都一样",
+        "wordTimings": [
+          {
+            "char": "缺",
+            "startTime": 171.5,
+            "endTime": 171.7
+          },
+          {
+            "char": "口",
+            "startTime": 171.7,
+            "endTime": 171.91
+          },
+          {
+            "char": "都",
+            "startTime": 171.91,
+            "endTime": 172.36
+          },
+          {
+            "char": "一",
+            "startTime": 172.36,
+            "endTime": 172.82
+          },
+          {
+            "char": "样",
+            "startTime": 172.82,
+            "endTime": 173.07
+          }
+        ]
+      },
+      {
+        "time": 173.33,
+        "text": "去吗 配吗 这褴褛的披风",
+        "wordTimings": [
+          {
+            "char": "去",
+            "startTime": 173.33,
+            "endTime": 173.78
+          },
+          {
+            "char": "吗",
+            "startTime": 173.78,
+            "endTime": 174.49
+          },
+          {
+            "char": " ",
+            "startTime": 174.49,
+            "endTime": 174.69
+          },
+          {
+            "char": "配",
+            "startTime": 174.69,
+            "endTime": 175.45
+          },
+          {
+            "char": "吗",
+            "startTime": 175.45,
+            "endTime": 175.65
+          },
+          {
+            "char": " ",
+            "startTime": 175.65,
+            "endTime": 175.86
+          },
+          {
+            "char": "这",
+            "startTime": 175.86,
+            "endTime": 176.06
+          },
+          {
+            "char": "褴",
+            "startTime": 176.06,
+            "endTime": 176.26
+          },
+          {
+            "char": "褛",
+            "startTime": 176.26,
+            "endTime": 176.52
+          },
+          {
+            "char": "的",
+            "startTime": 176.52,
+            "endTime": 176.77
+          },
+          {
+            "char": "披",
+            "startTime": 176.77,
+            "endTime": 177.27
+          },
+          {
+            "char": "风",
+            "startTime": 173.33,
+            "endTime": 173.83
+          }
+        ]
+      },
+      {
+        "time": 177.02,
+        "text": "战吗 战啊 以最卑微的梦",
+        "wordTimings": [
+          {
+            "char": "战",
+            "startTime": 177.02,
+            "endTime": 177.43
+          },
+          {
+            "char": "吗",
+            "startTime": 177.43,
+            "endTime": 178.14
+          },
+          {
+            "char": " ",
+            "startTime": 178.14,
+            "endTime": 178.39
+          },
+          {
+            "char": "战",
+            "startTime": 178.39,
+            "endTime": 179.15
+          },
+          {
+            "char": "啊",
+            "startTime": 179.15,
+            "endTime": 179.35
+          },
+          {
+            "char": " ",
+            "startTime": 179.35,
+            "endTime": 179.55
+          },
+          {
+            "char": "以",
+            "startTime": 179.55,
+            "endTime": 179.81
+          },
+          {
+            "char": "最",
+            "startTime": 179.81,
+            "endTime": 180.01
+          },
+          {
+            "char": "卑",
+            "startTime": 180.01,
+            "endTime": 180.21
+          },
+          {
+            "char": "微",
+            "startTime": 180.21,
+            "endTime": 180.51
+          },
+          {
+            "char": "的",
+            "startTime": 180.51,
+            "endTime": 181.01
+          },
+          {
+            "char": "梦",
+            "startTime": 177.02,
+            "endTime": 177.52
+          }
+        ]
+      },
+      {
+        "time": 180.72,
+        "text": "致那黑夜中的呜咽与怒吼",
+        "wordTimings": [
+          {
+            "char": "致",
+            "startTime": 180.72,
+            "endTime": 180.92
+          },
+          {
+            "char": "那",
+            "startTime": 180.92,
+            "endTime": 181.12
+          },
+          {
+            "char": "黑",
+            "startTime": 181.12,
+            "endTime": 181.58
+          },
+          {
+            "char": "夜",
+            "startTime": 181.58,
+            "endTime": 182.03
+          },
+          {
+            "char": "中",
+            "startTime": 182.03,
+            "endTime": 182.54
+          },
+          {
+            "char": "的",
+            "startTime": 182.54,
+            "endTime": 182.74
+          },
+          {
+            "char": "呜",
+            "startTime": 182.74,
+            "endTime": 183.5
+          },
+          {
+            "char": "咽",
+            "startTime": 183.5,
+            "endTime": 183.85
+          },
+          {
+            "char": "与",
+            "startTime": 183.85,
+            "endTime": 184.36
+          },
+          {
+            "char": "怒",
+            "startTime": 184.36,
+            "endTime": 184.56
+          },
+          {
+            "char": "吼",
+            "startTime": 184.56,
+            "endTime": 185.27
+          }
+        ]
+      },
+      {
+        "time": 188.15,
+        "text": "谁说站在光里的才算英雄",
+        "wordTimings": [
+          {
+            "char": "谁",
+            "startTime": 188.15,
+            "endTime": 188.3
+          },
+          {
+            "char": "说",
+            "startTime": 188.3,
+            "endTime": 188.56
+          },
+          {
+            "char": "站",
+            "startTime": 188.56,
+            "endTime": 188.96
+          },
+          {
+            "char": "在",
+            "startTime": 188.96,
+            "endTime": 189.42
+          },
+          {
+            "char": "光",
+            "startTime": 189.42,
+            "endTime": 189.92
+          },
+          {
+            "char": "里",
+            "startTime": 189.92,
+            "endTime": 190.12
+          },
+          {
+            "char": "的",
+            "startTime": 190.12,
+            "endTime": 190.83
+          },
+          {
+            "char": "才",
+            "startTime": 190.83,
+            "endTime": 191.29
+          },
+          {
+            "char": "算",
+            "startTime": 191.29,
+            "endTime": 191.8
+          },
+          {
+            "char": "英",
+            "startTime": 191.8,
+            "endTime": 191.95
+          },
+          {
+            "char": "雄",
+            "startTime": 191.95,
+            "endTime": 192.2
+          }
+        ]
+      },
+      {
+        "time": 192.55,
+        "text": "你的斑驳与众不同",
+        "wordTimings": [
+          {
+            "char": "你",
+            "startTime": 192.55,
+            "endTime": 193.11
+          },
+          {
+            "char": "的",
+            "startTime": 193.11,
+            "endTime": 193.56
+          },
+          {
+            "char": "斑",
+            "startTime": 193.56,
+            "endTime": 194.07
+          },
+          {
+            "char": "驳",
+            "startTime": 194.07,
+            "endTime": 194.98
+          },
+          {
+            "char": "与",
+            "startTime": 194.98,
+            "endTime": 195.43
+          },
+          {
+            "char": "众",
+            "startTime": 195.43,
+            "endTime": 195.69
+          },
+          {
+            "char": "不",
+            "startTime": 195.69,
+            "endTime": 196.19
+          },
+          {
+            "char": "同",
+            "startTime": 196.19,
+            "endTime": 196.5
+          }
+        ]
+      },
+      {
+        "time": 200.04,
+        "text": "你的沉默震耳欲聋",
+        "wordTimings": [
+          {
+            "char": "你",
+            "startTime": 200.04,
+            "endTime": 200.5
+          },
+          {
+            "char": "的",
+            "startTime": 200.5,
+            "endTime": 200.95
+          },
+          {
+            "char": "沉",
+            "startTime": 200.95,
+            "endTime": 201.41
+          },
+          {
+            "char": "默",
+            "startTime": 201.41,
+            "endTime": 202.32
+          },
+          {
+            "char": "震",
+            "startTime": 202.32,
+            "endTime": 202.78
+          },
+          {
+            "char": "耳",
+            "startTime": 202.78,
+            "endTime": 203.03
+          },
+          {
+            "char": "欲",
+            "startTime": 203.03,
+            "endTime": 203.49
+          },
+          {
+            "char": "聋",
+            "startTime": 203.49,
+            "endTime": 203.89
+          }
+        ]
+      },
+      {
+        "time": 206.63,
+        "text": "爱你孤身走暗巷",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 206.63,
+            "endTime": 206.83
+          },
+          {
+            "char": "你",
+            "startTime": 206.83,
+            "endTime": 207.03
+          },
+          {
+            "char": "孤",
+            "startTime": 207.03,
+            "endTime": 207.18
+          },
+          {
+            "char": "身",
+            "startTime": 207.18,
+            "endTime": 207.44
+          },
+          {
+            "char": "走",
+            "startTime": 207.44,
+            "endTime": 207.64
+          },
+          {
+            "char": "暗",
+            "startTime": 207.64,
+            "endTime": 207.94
+          },
+          {
+            "char": "巷",
+            "startTime": 207.94,
+            "endTime": 208.4
+          }
+        ]
+      },
+      {
+        "time": 208.4,
+        "text": "爱你不跪的模样",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 208.4,
+            "endTime": 208.55
+          },
+          {
+            "char": "你",
+            "startTime": 208.55,
+            "endTime": 208.81
+          },
+          {
+            "char": "不",
+            "startTime": 208.81,
+            "endTime": 209.06
+          },
+          {
+            "char": "跪",
+            "startTime": 209.06,
+            "endTime": 209.26
+          },
+          {
+            "char": "的",
+            "startTime": 209.26,
+            "endTime": 209.46
+          },
+          {
+            "char": "模",
+            "startTime": 209.46,
+            "endTime": 209.71
+          },
+          {
+            "char": "样",
+            "startTime": 209.71,
+            "endTime": 209.97
+          }
+        ]
+      },
+      {
+        "time": 210.22,
+        "text": "爱你对峙过绝望",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 210.22,
+            "endTime": 210.42
+          },
+          {
+            "char": "你",
+            "startTime": 210.42,
+            "endTime": 210.62
+          },
+          {
+            "char": "对",
+            "startTime": 210.62,
+            "endTime": 210.88
+          },
+          {
+            "char": "峙",
+            "startTime": 210.88,
+            "endTime": 211.13
+          },
+          {
+            "char": "过",
+            "startTime": 211.13,
+            "endTime": 211.33
+          },
+          {
+            "char": "绝",
+            "startTime": 211.33,
+            "endTime": 211.59
+          },
+          {
+            "char": "望",
+            "startTime": 211.59,
+            "endTime": 211.84
+          }
+        ]
+      },
+      {
+        "time": 212.04,
+        "text": "不肯哭一场",
+        "wordTimings": [
+          {
+            "char": "不",
+            "startTime": 212.04,
+            "endTime": 212.25
+          },
+          {
+            "char": "肯",
+            "startTime": 212.25,
+            "endTime": 212.5
+          },
+          {
+            "char": "哭",
+            "startTime": 212.5,
+            "endTime": 212.9
+          },
+          {
+            "char": "一",
+            "startTime": 212.9,
+            "endTime": 213.41
+          },
+          {
+            "char": "场",
+            "startTime": 213.41,
+            "endTime": 213.61
+          }
+        ]
+      },
+      {
+        "time": 213.91,
+        "text": "爱你来自于蛮荒",
+        "wordTimings": [
+          {
+            "char": "爱",
+            "startTime": 213.91,
+            "endTime": 214.12
+          },
+          {
+            "char": "你",
+            "startTime": 214.12,
+            "endTime": 214.37
+          },
+          {
+            "char": "来",
+            "startTime": 214.37,
+            "endTime": 214.57
+          },
+          {
+            "char": "自",
+            "startTime": 214.57,
+            "endTime": 214.83
+          },
+          {
+            "char": "于",
+            "startTime": 214.83,
+            "endTime": 215.03
+          },
+          {
+            "char": "蛮",
+            "startTime": 215.03,
+            "endTime": 215.28
+          },
+          {
+            "char": "荒",
+            "startTime": 215.28,
+            "endTime": 215.53
+          }
+        ]
+      },
+      {
+        "time": 215.74,
+        "text": "一生不借谁的光",
+        "wordTimings": [
+          {
+            "char": "一",
+            "startTime": 215.74,
+            "endTime": 215.94
+          },
+          {
+            "char": "生",
+            "startTime": 215.94,
+            "endTime": 216.14
+          },
+          {
+            "char": "不",
+            "startTime": 216.14,
+            "endTime": 216.39
+          },
+          {
+            "char": "借",
+            "startTime": 216.39,
+            "endTime": 216.65
+          },
+          {
+            "char": "谁",
+            "startTime": 216.65,
+            "endTime": 216.85
+          },
+          {
+            "char": "的",
+            "startTime": 216.85,
+            "endTime": 217.1
+          },
+          {
+            "char": "光",
+            "startTime": 217.1,
+            "endTime": 217.36
+          }
+        ]
+      },
+      {
+        "time": 217.61,
+        "text": "你将造你的城邦",
+        "wordTimings": [
+          {
+            "char": "你",
+            "startTime": 217.61,
+            "endTime": 217.81
+          },
+          {
+            "char": "将",
+            "startTime": 217.81,
+            "endTime": 218.07
+          },
+          {
+            "char": "造",
+            "startTime": 218.07,
+            "endTime": 218.27
+          },
+          {
+            "char": "你",
+            "startTime": 218.27,
+            "endTime": 218.52
+          },
+          {
+            "char": "的",
+            "startTime": 218.52,
+            "endTime": 218.72
+          },
+          {
+            "char": "城",
+            "startTime": 218.72,
+            "endTime": 218.93
+          },
+          {
+            "char": "邦",
+            "startTime": 218.93,
+            "endTime": 219.23
+          }
+        ]
+      },
+      {
+        "time": 219.43,
+        "text": "在废墟之上",
+        "wordTimings": [
+          {
+            "char": "在",
+            "startTime": 219.43,
+            "endTime": 219.64
+          },
+          {
+            "char": "废",
+            "startTime": 219.64,
+            "endTime": 219.89
+          },
+          {
+            "char": "墟",
+            "startTime": 219.89,
+            "endTime": 220.3
+          },
+          {
+            "char": "之",
+            "startTime": 220.3,
+            "endTime": 220.75
+          },
+          {
+            "char": "上",
+            "startTime": 220.75,
+            "endTime": 221.06
+          }
+        ]
+      },
+      {
+        "time": 221.31,
+        "text": "去吗 去啊 以最卑微的梦",
+        "wordTimings": [
+          {
+            "char": "去",
+            "startTime": 221.31,
+            "endTime": 221.77
+          },
+          {
+            "char": "吗",
+            "startTime": 221.77,
+            "endTime": 222.47
+          },
+          {
+            "char": " ",
+            "startTime": 222.47,
+            "endTime": 222.68
+          },
+          {
+            "char": "去",
+            "startTime": 222.68,
+            "endTime": 223.43
+          },
+          {
+            "char": "啊",
+            "startTime": 223.43,
+            "endTime": 223.64
+          },
+          {
+            "char": " ",
+            "startTime": 223.64,
+            "endTime": 223.84
+          },
+          {
+            "char": "以",
+            "startTime": 223.84,
+            "endTime": 224.04
+          },
+          {
+            "char": "最",
+            "startTime": 224.04,
+            "endTime": 224.25
+          },
+          {
+            "char": "卑",
+            "startTime": 224.25,
+            "endTime": 224.5
+          },
+          {
+            "char": "微",
+            "startTime": 224.5,
+            "endTime": 224.8
+          },
+          {
+            "char": "的",
+            "startTime": 224.8,
+            "endTime": 225.3
+          },
+          {
+            "char": "梦",
+            "startTime": 221.31,
+            "endTime": 221.81
+          }
+        ]
+      },
+      {
+        "time": 225,
+        "text": "战吗 战啊 以最孤高的梦",
+        "wordTimings": [
+          {
+            "char": "战",
+            "startTime": 225,
+            "endTime": 225.41
+          },
+          {
+            "char": "吗",
+            "startTime": 225.41,
+            "endTime": 226.17
+          },
+          {
+            "char": " ",
+            "startTime": 226.17,
+            "endTime": 226.37
+          },
+          {
+            "char": "战",
+            "startTime": 226.37,
+            "endTime": 227.13
+          },
+          {
+            "char": "啊",
+            "startTime": 227.13,
+            "endTime": 227.33
+          },
+          {
+            "char": " ",
+            "startTime": 227.33,
+            "endTime": 227.53
+          },
+          {
+            "char": "以",
+            "startTime": 227.53,
+            "endTime": 227.74
+          },
+          {
+            "char": "最",
+            "startTime": 227.74,
+            "endTime": 227.99
+          },
+          {
+            "char": "孤",
+            "startTime": 227.99,
+            "endTime": 228.24
+          },
+          {
+            "char": "高",
+            "startTime": 228.24,
+            "endTime": 228.44
+          },
+          {
+            "char": "的",
+            "startTime": 228.44,
+            "endTime": 228.94
+          },
+          {
+            "char": "梦",
+            "startTime": 225,
+            "endTime": 225.5
+          }
+        ]
+      },
+      {
+        "time": 228.7,
+        "text": "致那黑夜中的呜咽与怒吼",
+        "wordTimings": [
+          {
+            "char": "致",
+            "startTime": 228.7,
+            "endTime": 228.9
+          },
+          {
+            "char": "那",
+            "startTime": 228.9,
+            "endTime": 229.1
+          },
+          {
+            "char": "黑",
+            "startTime": 229.1,
+            "endTime": 229.56
+          },
+          {
+            "char": "夜",
+            "startTime": 229.56,
+            "endTime": 230.01
+          },
+          {
+            "char": "中",
+            "startTime": 230.01,
+            "endTime": 230.52
+          },
+          {
+            "char": "的",
+            "startTime": 230.52,
+            "endTime": 230.72
+          },
+          {
+            "char": "呜",
+            "startTime": 230.72,
+            "endTime": 231.47
+          },
+          {
+            "char": "咽",
+            "startTime": 231.47,
+            "endTime": 231.88
+          },
+          {
+            "char": "与",
+            "startTime": 231.88,
+            "endTime": 232.39
+          },
+          {
+            "char": "怒",
+            "startTime": 232.39,
+            "endTime": 232.59
+          },
+          {
+            "char": "吼",
+            "startTime": 232.59,
+            "endTime": 232.89
+          }
+        ]
+      },
+      {
+        "time": 236.09,
+        "text": "谁说站在光里的才算英雄",
+        "wordTimings": [
+          {
+            "char": "谁",
+            "startTime": 236.09,
+            "endTime": 236.29
+          },
+          {
+            "char": "说",
+            "startTime": 236.29,
+            "endTime": 236.5
+          },
+          {
+            "char": "站",
+            "startTime": 236.5,
+            "endTime": 236.95
+          },
+          {
+            "char": "在",
+            "startTime": 236.95,
+            "endTime": 237.35
+          },
+          {
+            "char": "光",
+            "startTime": 237.35,
+            "endTime": 237.91
+          },
+          {
+            "char": "里",
+            "startTime": 237.91,
+            "endTime": 238.11
+          },
+          {
+            "char": "的",
+            "startTime": 238.11,
+            "endTime": 238.82
+          },
+          {
+            "char": "才",
+            "startTime": 238.82,
+            "endTime": 239.28
+          },
+          {
+            "char": "算",
+            "startTime": 239.28,
+            "endTime": 239.78
+          },
+          {
+            "char": "英",
+            "startTime": 239.78,
+            "endTime": 239.98
+          },
+          {
+            "char": "雄",
+            "startTime": 239.98,
+            "endTime": 492.09
+          }
+        ]
+      }
+    ]
+  }
+]

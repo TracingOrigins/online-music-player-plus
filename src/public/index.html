@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="zh" data-theme="light">
+<script>
+    // 使用现代的主题检测和设置方法
+    const setTheme = () => {
+        document.documentElement.setAttribute(
+            'data-theme',
+            window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+        );
+    };
+    setTheme();
+</script>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light dark">
+    <title>在线音乐播放器</title>
+    
+    <!-- 深色主题图标 -->
+    <link rel="icon" type="image/png" href="/icons/favicon-dark.png" media="(prefers-color-scheme: dark)">
+    <!-- 浅色主题图标 -->
+    <link rel="icon" type="image/png" href="/icons/favicon-light.png" media="(prefers-color-scheme: light)">
+
+    <!-- 动态切换图标的脚本 -->
+    <script>
+        // 监听系统主题变化
+        const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+        
+        function updateFavicon() {
+            // 获取所有图标元素
+            const icons = document.querySelectorAll('link[rel="icon"]');
+            
+            // 根据当前主题显示/隐藏对应的图标
+            icons.forEach(icon => {
+                const mediaQuery = icon.getAttribute('media');
+                if (mediaQuery) {
+                    const matches = window.matchMedia(mediaQuery).matches;
+                    icon.disabled = !matches;
+                }
+            });
+        }
+
+        // 初始设置
+        updateFavicon();
+        
+        // 监听主题变化
+        darkModeMediaQuery.addListener(updateFavicon);
+    </script>
+    
+    <style>
+        :root {
+            color-scheme: light dark;
+        }
+        
+        body {
+            background-color: #f0f0f0;
+        }
+        
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #1a1a1a;
+            }
+        }
+    </style>
+    
+    <link rel="stylesheet" href="/css/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="music-player" role="application" aria-label="音乐播放器">
+        <div class="background" role="presentation"></div>
+
+        <div class="player-content">
+            <div class="theme-switch">
+                <button id="themeBtn" aria-label="切换主题" title="切换主题">
+                    <i class="ri-sun-line" aria-hidden="true"></i>
+                </button>
+            </div>
+
+            <div class="song-info" role="status" aria-live="polite">
+                <h2 class="song-title">歌曲名称</h2>
+                <p class="artist">歌手</p>
+            </div>
+
+            <div class="controls" role="toolbar" aria-label="播放控制">
+                <button id="prevBtn" aria-label="上一首" title="上一首">
+                    <i class="ri-skip-back-fill" aria-hidden="true"></i>
+                </button>
+                <button id="playBtn" aria-label="播放/暂停" title="播放/暂停">
+                    <i class="ri-play-fill" aria-hidden="true"></i>
+                </button>
+                <button id="nextBtn" aria-label="下一首" title="下一首">
+                    <i class="ri-skip-forward-fill" aria-hidden="true"></i>
+                </button>
+            </div>
+
+            <div class="speed-control">
+                <button id="speedBtn" aria-label="播放速度" title="播放速度">
+                    <i class="ri-speed-line" aria-hidden="true"></i>
+                </button>
+                <div class="speed-options" role="menu" aria-label="速度选项">
+                    <div class="speed-option" role="menuitem" tabindex="0" data-speed="0.5">0.5x</div>
+                    <div class="speed-option" role="menuitem" tabindex="0" data-speed="0.75">0.75x</div>
+                    <div class="speed-option" role="menuitem" tabindex="0" data-speed="1.0">1.0x</div>
+                    <div class="speed-option" role="menuitem" tabindex="0" data-speed="1.25">1.25x</div>
+                    <div class="speed-option" role="menuitem" tabindex="0" data-speed="1.5">1.5x</div>
+                    <div class="speed-option" role="menuitem" tabindex="0" data-speed="2.0">2.0x</div>
+                </div>
+            </div>
+
+            <div class="progress-bar" role="slider" aria-label="播放进度" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+                <div class="progress"></div>
+            </div>
+
+            <div class="time" role="timer">
+                <span class="current-time">0:00</span>
+                <span class="duration">0:00</span>
+            </div>
+
+            <div class="lyrics" role="region" aria-label="歌词">
+                <div class="lyrics-wrapper">
+                    <!-- 歌词将在这里显示 -->
+                </div>
+            </div>
+        </div>
+
+        <audio id="audio" preload="metadata"></audio>
+    </div>
+    <script src="/js/script.js" defer></script>
+</body>
+</html> 
