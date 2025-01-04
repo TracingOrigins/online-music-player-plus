@@ -86,11 +86,11 @@ online-music-player-plus/
    http://localhost:3000
    ```
 
-## License
+### License
 
 [GPL-3.0 license](LICENSE)
 
-## Contact
+### Contact
 
 If you have any questions or suggestions, please submit Issue or PR.
 
@@ -121,7 +121,7 @@ If you have any questions or suggestions, please submit Issue or PR.
    - `Ctrl + ←`: 快退 15 秒
    - `Ctrl + →`: 快进 15 秒
 
-## 目录结构
+### 目录结构
 
 ```
 online-music-player-plus/
