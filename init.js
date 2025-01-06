@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-// 从 get-playlist.js 移过来的 parseLRC 函数
+// 解析歌词
 function parseLRC(filePath) {
     const content = fs.readFileSync(filePath, 'utf8');
     const lines = content.split('\n');
@@ -69,7 +69,7 @@ function parseLRC(filePath) {
     return lyrics.sort((a, b) => a.time - b.time);
 }
 
-// 从 get-playlist.js 移过来的生成播放列表功能
+// 生成播放列表
 function generatePlaylist() {
     const musicDir = path.join(__dirname, 'src/music');
     try {
